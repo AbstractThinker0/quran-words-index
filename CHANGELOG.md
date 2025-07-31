@@ -2,6 +2,7 @@
 
 ## 0.0.dev
 
+- Add unprefixed field
 - Mark some words as reserved
 - Remove unchecked prefixes
 - Mark initials
