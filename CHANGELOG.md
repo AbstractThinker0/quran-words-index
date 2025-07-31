@@ -2,6 +2,7 @@
 
 ## 0.0.dev
 
+- Mark more words as reserved
 - Add unprefixed field
 - Mark some words as reserved
 - Remove unchecked prefixes
