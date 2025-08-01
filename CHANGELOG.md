@@ -2,6 +2,7 @@
 
 ## 0.0.dev
 
+- Add "نَ" prefix
 - Add "نَسْتَ" prefix
 - Convert from nested structure to flattened structure
 - Mark more words as reserved p5
