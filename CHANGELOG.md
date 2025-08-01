@@ -2,6 +2,7 @@
 
 ## 0.0.dev
 
+- Convert from nested structure to flattened structure
 - Mark more words as reserved p5
 - Mark more words as reserved p4
 - Mark more words as reserved p3
