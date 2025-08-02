@@ -2,6 +2,20 @@
 
 ## 0.0.dev
 
+- Separate bound prefix from loose prefixes
+- Add a list of bound prefixes:
+  "مُسْتَ"
+  "نُ"
+  "يَسْتَ"
+  "اسْتَ"
+  "تَسْتَ"
+  "نَتَ"
+  "اسْتِ"
+  "يُسْتَ"
+  "اسْتُ"
+  "نَتَّ"
+  "أَسْتَ"
+  "نُتَ"
 - Add "نَ" prefix
 - Add "نَسْتَ" prefix
 - Convert from nested structure to flattened structure
