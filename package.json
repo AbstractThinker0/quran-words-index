@@ -1,0 +1,24 @@
+{
+  "name": "quran-words-index",
+  "version": "0.0.0",
+  "description": "quran-words-index",
+  "homepage": "https://github.com/AbstractThinker0/quran-words-index#readme",
+  "bugs": {
+    "url": "https://github.com/AbstractThinker0/quran-words-index/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbstractThinker0/quran-words-index.git"
+  },
+  "license": "MIT",
+  "author": "AbstractThinker0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.5",
+    "ts-jest": "^29.4.1",
+    "typescript": "^5.9.2"
+  }
+}
