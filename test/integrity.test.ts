@@ -22,7 +22,7 @@ describe("integrity tests", () => {
         );
       }
 
-      expect(currWord.word.startsWith(loosePrefixes)).toBe(true);
+      expect(startsWithLoose).toBe(true);
 
       const fullPrefix = loosePrefixes.concat(currWord.bound_prefix);
 
@@ -32,7 +32,7 @@ describe("integrity tests", () => {
         console.log("word: ", currWord.word, " - full prefix: ", fullPrefix);
       }
 
-      expect(currWord.word.startsWith(fullPrefix)).toBe(true);
+      expect(startsWithFull).toBe(true);
     }
   });
 });
