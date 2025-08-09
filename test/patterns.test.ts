@@ -4,7 +4,7 @@ import { commonArabicDiacritics } from "../src/consts";
 import { getFirstRoot, getSecondRoot, getThirdRoot } from "../src/rootExtract";
 
 describe("patterns tests", () => {
-  test("Check اسْتَ - اسْتِ prefix extracted roots", () => {
+  test("Check اسْتَ - اسْتِ - اسْتُ prefix extracted roots", () => {
     for (const wordKey in wordsIndex) {
       const currWord = wordsIndex[wordKey];
       const splittedWord = splitArabicLetters(currWord.unprefixed);
@@ -32,6 +32,8 @@ describe("patterns tests", () => {
             getSecondRoot(currWord.unprefixed)
           );
         }
+      } else if (currWord.bound_prefix === "اسْتُ") {
+        expect(currWord.extracted_root).toBe(getFirstRoot(currWord.unprefixed));
       }
     }
   });

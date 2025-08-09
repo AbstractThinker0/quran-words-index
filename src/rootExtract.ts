@@ -16,8 +16,18 @@ const getFirstRoot = (word: string) => {
     return removeDiacritics([splitted[0], "و", splitted[2]].join(""));
   }
 
-  if (splitted.length > 1 && splitted[1].includes("ْ")) {
+  if (
+    splitted.length > 1 &&
+    splitted[1].includes(commonArabicDiacritics.sukun)
+  ) {
     return removeDiacritics([splitted[0], "و", splitted[1]].join(""));
+  }
+
+  if (
+    splitted.length > 2 &&
+    (splitted[2].includes("تْ") || splitted[2] === "ا")
+  ) {
+    return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
   }
 
   if (splitted.length > 1 && splitted[1] === "ي") {
@@ -28,14 +38,13 @@ const getFirstRoot = (word: string) => {
     return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
   }
 
-  if (
-    splitted.length > 2 &&
-    (splitted[2].includes("تْ") || splitted[2] === "ا")
-  ) {
-    return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
+  if (splitted.length > 1 && splitted[2] === "ئَ") {
+    splitted[2] = "ء";
   }
 
-  return removeDiacritics(word).slice(0, 3);
+  const firstThreeLetters = splitted.slice(0, 3).join("");
+
+  return removeDiacritics(firstThreeLetters);
 };
 
 const getSecondRoot = (word: string) => {
