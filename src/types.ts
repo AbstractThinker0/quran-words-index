@@ -7,5 +7,9 @@ export interface WordInfo {
   prefixes: string[];
   bound_prefix: string;
   unprefixed: string;
+
+  extracted_root: string;
+  extraction_method: string;
+
   type: "reserved" | "normal" | "initial";
 }
