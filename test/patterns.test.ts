@@ -1,16 +1,15 @@
 import { splitArabicLetters } from "quran-tools";
 import { wordsIndex } from "../src/index";
 import { commonArabicDiacritics } from "../src/consts";
-import { getFirstRoot, getThirdRoot } from "../src/rootExtract";
+import { getFirstRoot, getSecondRoot, getThirdRoot } from "../src/rootExtract";
 
 describe("patterns tests", () => {
-  test("Check اسْتَ prefix extracted roots", () => {
+  test("Check اسْتَ - اسْتِ prefix extracted roots", () => {
     for (const wordKey in wordsIndex) {
       const currWord = wordsIndex[wordKey];
+      const splittedWord = splitArabicLetters(currWord.unprefixed);
 
       if (currWord.bound_prefix === "اسْتَ") {
-        const splittedWord = splitArabicLetters(currWord.unprefixed);
-
         if (
           splittedWord.length > 1 &&
           splittedWord[1].includes(commonArabicDiacritics.shadda)
@@ -21,6 +20,16 @@ describe("patterns tests", () => {
         } else {
           expect(currWord.extracted_root).toBe(
             getFirstRoot(currWord.unprefixed)
+          );
+        }
+      } else if (currWord.bound_prefix === "اسْتِ") {
+        if (splittedWord.length > 3 && splittedWord[3] === "ءٍ") {
+          expect(currWord.extracted_root).toBe(
+            getFirstRoot(currWord.unprefixed)
+          );
+        } else {
+          expect(currWord.extracted_root).toBe(
+            getSecondRoot(currWord.unprefixed)
           );
         }
       }
