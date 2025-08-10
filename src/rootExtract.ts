@@ -24,7 +24,10 @@ const extractSuffix = (word: string) => {
     return splitted.slice(0, splitted.length - 2).join("");
   }
 
-  if (word.length > 2 && (word.endsWith("وْا") || word.endsWith("ونَ"))) {
+  if (
+    word.length > 2 &&
+    (word.endsWith("وْا") || word.endsWith("ونَ") || word.endsWith("وْنَ"))
+  ) {
     return splitted
       .slice(0, splitted.length - 2)
       .join("")
