@@ -13,21 +13,19 @@ const extractSuffix = (word: string) => {
   }
 
   if (
-    word.length > 2 &&
-    (word.endsWith("وا") ||
-      word.endsWith("ونِ") ||
-      word.endsWith("تُمُ") ||
-      word.endsWith("وهُ") ||
-      word.endsWith("ينَ") ||
-      word.endsWith("تُنَّ"))
+    (word.length > 2 &&
+      (word.endsWith("وا") ||
+        word.endsWith("ونِ") ||
+        word.endsWith("تُمُ") ||
+        word.endsWith("وهُ") ||
+        word.endsWith("ينَ") ||
+        word.endsWith("تُنَّ"))) ||
+    word.endsWith("ونَ")
   ) {
     return splitted.slice(0, splitted.length - 2).join("");
   }
 
-  if (
-    word.length > 2 &&
-    (word.endsWith("وْا") || word.endsWith("ونَ") || word.endsWith("وْنَ"))
-  ) {
+  if (word.length > 2 && (word.endsWith("وْا") || word.endsWith("وْنَ"))) {
     return splitted
       .slice(0, splitted.length - 2)
       .join("")
@@ -39,6 +37,10 @@ const extractSuffix = (word: string) => {
       .slice(0, splitted.length - 1)
       .join("")
       .concat("ى");
+  }
+
+  if (splitted[splitted.length - 1].includes("ه")) {
+    return splitted.slice(0, splitted.length - 1).join("");
   }
 
   return word;
@@ -89,7 +91,10 @@ const getFirstRoot = (word: string) => {
     return removeDiacritics([splitted[0], "و", splitted[2]].join(""));
   }
 
-  if (splitted.length > 1 && splitted[1] === "يُ") {
+  if (
+    splitted.length > 1 &&
+    (splitted[1] === "يُ" || splitted[1] === "شُ" || splitted[1] === "نُ")
+  ) {
     return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
   }
 
@@ -105,11 +110,32 @@ const getFirstRoot = (word: string) => {
     return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
   }
 
+  if (splitted.length === 1) {
+    if (splitted[0].includes("ق")) {
+      return "وقى";
+    }
+  }
+
+  if (splitted.length === 2) {
+    if (splitted[0].includes("ق") && splitted[1].includes("ى")) {
+      return "وقى";
+    }
+  }
+
+  if (splitted.length === 2) {
+    if (splitted[0].includes("ك") && splitted[1].includes("ئ")) {
+      return "وكء";
+    }
+  }
+
+  const wordLength = splitted.length;
+
   if (
-    splitted.length > 2 &&
-    (splitted[2].includes("ئ") || splitted[2].includes("أ"))
+    wordLength > 1 &&
+    (splitted[wordLength - 1].includes("ئ") ||
+      splitted[wordLength - 1].includes("أ"))
   ) {
-    splitted[2] = "ء";
+    splitted[wordLength - 1] = "ء";
   }
 
   const firstThreeLetters = splitted.slice(0, 3).join("");
