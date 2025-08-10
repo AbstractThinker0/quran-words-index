@@ -1,8 +1,37 @@
 import { splitArabicLetters, removeDiacritics } from "quran-tools";
 import { commonArabicDiacritics } from "./consts";
 
+const extractSuffix = (word: string) => {
+  if (word === "بِينَ") {
+    return word;
+  }
+
+  if (
+    word.length > 2 &&
+    (word.endsWith("وا") ||
+      word.endsWith("ونِ") ||
+      word.endsWith("تُمُ") ||
+      word.endsWith("وهُ") ||
+      word.endsWith("ينَ") ||
+      word.endsWith("تُنَّ"))
+  ) {
+    const splitted = splitArabicLetters(word);
+    return splitted.slice(0, splitted.length - 2).join("");
+  }
+
+  if (word.length > 2 && word.endsWith("وْا")) {
+    const splitted = splitArabicLetters(word);
+    return splitted
+      .slice(0, splitted.length - 2)
+      .join("")
+      .concat("ى");
+  }
+
+  return word;
+};
+
 const getFirstRoot = (word: string) => {
-  const splitted = splitArabicLetters(word);
+  const splitted = splitArabicLetters(extractSuffix(word));
 
   if (
     splitted.length > 1 &&
@@ -10,6 +39,14 @@ const getFirstRoot = (word: string) => {
     splitted[1].includes("خ")
   ) {
     return removeDiacritics(["أ", splitted[1], splitted[2]].join(""));
+  }
+
+  if (
+    splitted.length > 1 &&
+    splitted[0].includes("خ") &&
+    splitted[1].includes("ذ")
+  ) {
+    return removeDiacritics(["أ", splitted[0], splitted[1]].join(""));
   }
 
   if (splitted.length > 1 && splitted[1].includes("ا")) {
@@ -30,7 +67,11 @@ const getFirstRoot = (word: string) => {
     return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
   }
 
-  if (splitted.length > 1 && splitted[1] === "ي") {
+  if (
+    splitted.length > 1 &&
+    !splitted[0].includes("ب") &&
+    splitted[1] === "ي"
+  ) {
     return removeDiacritics([splitted[0], "و", splitted[2]].join(""));
   }
 
@@ -38,7 +79,11 @@ const getFirstRoot = (word: string) => {
     return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
   }
 
-  if (splitted.length > 1 && splitted[2] === "ئَ") {
+  if (splitted.length > 1 && splitted[1] === "فٍ") {
+    return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
+  }
+
+  if (splitted.length > 2 && splitted[2].includes("ئ")) {
     splitted[2] = "ء";
   }
 
