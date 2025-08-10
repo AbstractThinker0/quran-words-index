@@ -102,7 +102,10 @@ const getFirstRoot = (word: string) => {
     return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
   }
 
-  if (splitted.length > 2 && splitted[2].includes("ئ")) {
+  if (
+    splitted.length > 2 &&
+    (splitted[2].includes("ئ") || splitted[2].includes("أ"))
+  ) {
     splitted[2] = "ء";
   }
 
