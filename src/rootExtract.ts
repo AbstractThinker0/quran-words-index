@@ -6,6 +6,12 @@ const extractSuffix = (word: string) => {
     return word;
   }
 
+  const splitted = splitArabicLetters(word);
+
+  if (word.length > 3 && word.endsWith("ونَكَ")) {
+    return splitted.slice(0, splitted.length - 3).join("");
+  }
+
   if (
     word.length > 2 &&
     (word.endsWith("وا") ||
@@ -15,14 +21,19 @@ const extractSuffix = (word: string) => {
       word.endsWith("ينَ") ||
       word.endsWith("تُنَّ"))
   ) {
-    const splitted = splitArabicLetters(word);
     return splitted.slice(0, splitted.length - 2).join("");
   }
 
-  if (word.length > 2 && word.endsWith("وْا")) {
-    const splitted = splitArabicLetters(word);
+  if (word.length > 2 && (word.endsWith("وْا") || word.endsWith("ونَ"))) {
     return splitted
       .slice(0, splitted.length - 2)
+      .join("")
+      .concat("ى");
+  }
+
+  if (splitted[splitted.length - 1] === "ي") {
+    return splitted
+      .slice(0, splitted.length - 1)
       .join("")
       .concat("ى");
   }
@@ -80,6 +91,14 @@ const getFirstRoot = (word: string) => {
   }
 
   if (splitted.length > 1 && splitted[1] === "فٍ") {
+    return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
+  }
+
+  if (splitted.length === 2 && splitted[1] === "تُ") {
+    return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
+  }
+
+  if (splitted.length === 2 && splitted[1] === "فُ") {
     return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
   }
 
