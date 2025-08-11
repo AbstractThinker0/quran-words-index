@@ -49,6 +49,35 @@ const extractSuffix = (word: string) => {
 const getFirstRoot = (word: string) => {
   const splitted = splitArabicLetters(extractSuffix(word));
 
+  if (splitted.length === 1) {
+    if (splitted[0].includes("ق")) {
+      return "وقى";
+    }
+  }
+
+  if (splitted.length === 2) {
+    if (
+      splitted[0].includes("ق") &&
+      (splitted[1].includes("ى") || splitted[1].includes("ي"))
+    ) {
+      return "وقى";
+    }
+  }
+
+  if (splitted.length === 2) {
+    if (splitted[0].includes("ك") && splitted[1].includes("ئ")) {
+      return "وكء";
+    }
+  }
+
+  if (
+    splitted.length === 2 &&
+    splitted[0].includes("س") &&
+    splitted[1].includes("ق")
+  ) {
+    return removeDiacritics(["و", splitted[0], splitted[1]].join(""));
+  }
+
   if (
     splitted.length > 1 &&
     splitted[0].includes("ت") &&
@@ -108,24 +137,6 @@ const getFirstRoot = (word: string) => {
 
   if (splitted.length === 2 && splitted[1] === "فُ") {
     return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
-  }
-
-  if (splitted.length === 1) {
-    if (splitted[0].includes("ق")) {
-      return "وقى";
-    }
-  }
-
-  if (splitted.length === 2) {
-    if (splitted[0].includes("ق") && splitted[1].includes("ى")) {
-      return "وقى";
-    }
-  }
-
-  if (splitted.length === 2) {
-    if (splitted[0].includes("ك") && splitted[1].includes("ئ")) {
-      return "وكء";
-    }
   }
 
   const wordLength = splitted.length;
