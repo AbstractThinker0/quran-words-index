@@ -22,8 +22,8 @@ interface MinimalEntry {
 }
 
 function generateMinimalIndex(): void {
-  const inputPath = path.join(__dirname, '../quran-words-index.json');
-  const outputPath = path.join(__dirname, '../quran-words-index-minimal.json');
+  const inputPath = path.join(__dirname, '../data/quran-words-index.json');
+  const outputPath = path.join(__dirname, '../data/quran-words-index-minimal.json');
 
   try {
     // Read the full index
