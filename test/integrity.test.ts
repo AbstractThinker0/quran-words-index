@@ -33,6 +33,20 @@ describe("integrity tests", () => {
       }
 
       expect(startsWithFull).toBe(true);
+
+      const hasSuffix =
+        currWord.suffix.length > 0 &&
+        currWord.suffix !== "none" &&
+        currWord.suffix !== "pending";
+
+      if (hasSuffix) {
+        const endsWithSuffix = currWord.word.endsWith(currWord.suffix);
+        if (!endsWithSuffix) {
+          console.log("word: ", currWord.word, " - suffix: ", currWord.suffix);
+        }
+
+        expect(endsWithSuffix).toBe(true);
+      }
     }
   });
 });
