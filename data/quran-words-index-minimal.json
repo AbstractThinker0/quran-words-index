@@ -78468,8 +78468,8 @@
   "449:6": {
     "word": "مُتُّمْ",
     "prefixes": [],
-    "bound_prefix": "مُ",
-    "unprefixed": "تُّمْ",
+    "bound_prefix": "",
+    "unprefixed": "مُتُّمْ",
     "extracted_root": "",
     "suffix": "مْ"
   },
@@ -78549,8 +78549,8 @@
   "450:1": {
     "word": "مُتُّمْ",
     "prefixes": [],
-    "bound_prefix": "مُ",
-    "unprefixed": "تُّمْ",
+    "bound_prefix": "",
+    "unprefixed": "مُتُّمْ",
     "extracted_root": "",
     "suffix": "مْ"
   },
@@ -165816,9 +165816,11 @@
   },
   "931:9": {
     "word": "آلذَّكَرَيْنِ",
-    "prefixes": [],
+    "prefixes": [
+      "آل"
+    ],
     "bound_prefix": "",
-    "unprefixed": "آلذَّكَرَيْنِ",
+    "unprefixed": "ذَّكَرَيْنِ",
     "extracted_root": "",
     "suffix": "يْنِ"
   },
@@ -165998,9 +166000,11 @@
   },
   "932:7": {
     "word": "آلذَّكَرَيْنِ",
-    "prefixes": [],
+    "prefixes": [
+      "آل"
+    ],
     "bound_prefix": "",
-    "unprefixed": "آلذَّكَرَيْنِ",
+    "unprefixed": "ذَّكَرَيْنِ",
     "extracted_root": "",
     "suffix": "يْنِ"
   },
@@ -269602,8 +269606,8 @@
     "prefixes": [
       "بِ"
     ],
-    "bound_prefix": "مَ",
-    "unprefixed": "كْرِهِنَّ",
+    "bound_prefix": "",
+    "unprefixed": "مَكْرِهِنَّ",
     "extracted_root": "",
     "suffix": "هِنَّ"
   },
@@ -413486,8 +413490,8 @@
     "prefixes": [
       "وَ"
     ],
-    "bound_prefix": "أَ",
-    "unprefixed": "نَاسِيَّ",
+    "bound_prefix": "",
+    "unprefixed": "أَنَاسِيَّ",
     "extracted_root": "",
     "suffix": "يَّ"
   },

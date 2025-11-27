@@ -96246,8 +96246,8 @@
   "449:6": {
     "word": "مُتُّمْ",
     "prefixes": [],
-    "bound_prefix": "مُ",
-    "unprefixed": "تُّمْ",
+    "bound_prefix": "",
+    "unprefixed": "مُتُّمْ",
     "type": "normal",
     "extracted_root": "",
     "extraction_method": "0",
@@ -96345,8 +96345,8 @@
   "450:1": {
     "word": "مُتُّمْ",
     "prefixes": [],
-    "bound_prefix": "مُ",
-    "unprefixed": "تُّمْ",
+    "bound_prefix": "",
+    "unprefixed": "مُتُّمْ",
     "type": "normal",
     "extracted_root": "",
     "extraction_method": "0",
@@ -203452,9 +203452,11 @@
   },
   "931:9": {
     "word": "آلذَّكَرَيْنِ",
-    "prefixes": [],
+    "prefixes": [
+      "آل"
+    ],
     "bound_prefix": "",
-    "unprefixed": "آلذَّكَرَيْنِ",
+    "unprefixed": "ذَّكَرَيْنِ",
     "type": "normal",
     "extracted_root": "",
     "extraction_method": "0",
@@ -203676,9 +203678,11 @@
   },
   "932:7": {
     "word": "آلذَّكَرَيْنِ",
-    "prefixes": [],
+    "prefixes": [
+      "آل"
+    ],
     "bound_prefix": "",
-    "unprefixed": "آلذَّكَرَيْنِ",
+    "unprefixed": "ذَّكَرَيْنِ",
     "type": "normal",
     "extracted_root": "",
     "extraction_method": "0",
@@ -300778,7 +300782,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "سِّحْرُ",
-    "type": "reserved",
+    "type": "normal",
     "extracted_root": "",
     "extraction_method": "0",
     "suffix": ""
@@ -330964,8 +330968,8 @@
     "prefixes": [
       "بِ"
     ],
-    "bound_prefix": "مَ",
-    "unprefixed": "كْرِهِنَّ",
+    "bound_prefix": "",
+    "unprefixed": "مَكْرِهِنَّ",
     "type": "normal",
     "extracted_root": "",
     "extraction_method": "0",
@@ -507786,8 +507790,8 @@
     "prefixes": [
       "وَ"
     ],
-    "bound_prefix": "أَ",
-    "unprefixed": "نَاسِيَّ",
+    "bound_prefix": "",
+    "unprefixed": "أَنَاسِيَّ",
     "type": "normal",
     "extracted_root": "",
     "extraction_method": "0",
