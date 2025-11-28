@@ -24,6 +24,6 @@
     "typescript": "^5.9.2"
   },
   "dependencies": {
-    "quran-tools": "^0.0.10"
+    "quran-tools": "^0.0.11"
   }
 }
