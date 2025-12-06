@@ -46,6 +46,23 @@ const extractSuffix = (word: string) => {
   return word;
 };
 
+const normalizeStem = (root: string) => {
+  if (!root) return root;
+
+  if (
+    root[0] &&
+    (root[0] === "ا" || root[0] === "إ" || root[0] === "آ" || root[0] === "ؤ")
+  ) {
+    root = "أ" + root.slice(1);
+  }
+
+  if (root[2] && root[2] === "ي") {
+    root = root.slice(0, 2) + "ى" + root.slice(3);
+  }
+
+  return root;
+};
+
 const getFirstRoot = (word: string) => {
   const splitted = splitArabicLetters(extractSuffix(word));
 
@@ -75,7 +92,9 @@ const getFirstRoot = (word: string) => {
     splitted[0].includes("س") &&
     splitted[1].includes("ق")
   ) {
-    return removeDiacritics(["و", splitted[0], splitted[1]].join(""));
+    return normalizeStem(
+      removeDiacritics(["و", splitted[0], splitted[1]].join(""))
+    );
   }
 
   if (
@@ -83,7 +102,9 @@ const getFirstRoot = (word: string) => {
     splitted[0].includes("ت") &&
     splitted[1].includes("خ")
   ) {
-    return removeDiacritics(["أ", splitted[1], splitted[2]].join(""));
+    return normalizeStem(
+      removeDiacritics(["أ", splitted[1], splitted[2]].join(""))
+    );
   }
 
   if (
@@ -91,25 +112,33 @@ const getFirstRoot = (word: string) => {
     splitted[0].includes("خ") &&
     splitted[1].includes("ذ")
   ) {
-    return removeDiacritics(["أ", splitted[0], splitted[1]].join(""));
+    return normalizeStem(
+      removeDiacritics(["أ", splitted[0], splitted[1]].join(""))
+    );
   }
 
   if (splitted.length > 1 && splitted[1].includes("ا")) {
-    return removeDiacritics([splitted[0], "و", splitted[2]].join(""));
+    return normalizeStem(
+      removeDiacritics([splitted[0], "و", splitted[2]].join(""))
+    );
   }
 
   if (
     splitted.length > 1 &&
     splitted[1].includes(commonArabicDiacritics.sukun)
   ) {
-    return removeDiacritics([splitted[0], "و", splitted[1]].join(""));
+    return normalizeStem(
+      removeDiacritics([splitted[0], "و", splitted[1]].join(""))
+    );
   }
 
   if (
     splitted.length > 2 &&
     (splitted[2].includes("تْ") || splitted[2] === "ا")
   ) {
-    return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
+    return normalizeStem(
+      removeDiacritics([splitted[0], splitted[1], "ى"].join(""))
+    );
   }
 
   if (
@@ -117,26 +146,36 @@ const getFirstRoot = (word: string) => {
     !splitted[0].includes("ب") &&
     splitted[1] === "ي"
   ) {
-    return removeDiacritics([splitted[0], "و", splitted[2]].join(""));
+    return normalizeStem(
+      removeDiacritics([splitted[0], "و", splitted[2]].join(""))
+    );
   }
 
   if (
     splitted.length > 1 &&
     (splitted[1] === "يُ" || splitted[1] === "شُ" || splitted[1] === "نُ")
   ) {
-    return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
+    return normalizeStem(
+      removeDiacritics([splitted[0], splitted[1], "ى"].join(""))
+    );
   }
 
   if (splitted.length > 1 && splitted[1] === "فٍ") {
-    return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
+    return normalizeStem(
+      removeDiacritics([splitted[0], splitted[1], "ى"].join(""))
+    );
   }
 
   if (splitted.length === 2 && splitted[1] === "تُ") {
-    return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
+    return normalizeStem(
+      removeDiacritics([splitted[0], splitted[1], "ى"].join(""))
+    );
   }
 
   if (splitted.length === 2 && splitted[1] === "فُ") {
-    return removeDiacritics([splitted[0], splitted[1], "ى"].join(""));
+    return normalizeStem(
+      removeDiacritics([splitted[0], splitted[1], "ى"].join(""))
+    );
   }
 
   const wordLength = splitted.length;
@@ -151,7 +190,7 @@ const getFirstRoot = (word: string) => {
 
   const firstThreeLetters = splitted.slice(0, 3).join("");
 
-  return removeDiacritics(firstThreeLetters);
+  return normalizeStem(removeDiacritics(firstThreeLetters));
 };
 
 const getSecondRoot = (word: string) => {
@@ -163,7 +202,9 @@ const getSecondRoot = (word: string) => {
       splitted[2].includes("ا") ||
       splitted[2].includes("و"))
   ) {
-    return removeDiacritics([splitted[0], splitted[1], splitted[3]].join(""));
+    return normalizeStem(
+      removeDiacritics([splitted[0], splitted[1], splitted[3]].join(""))
+    );
   }
 
   if (
@@ -172,7 +213,9 @@ const getSecondRoot = (word: string) => {
       splitted[1].includes("ا") ||
       splitted[1].includes("و"))
   ) {
-    return removeDiacritics([splitted[0], splitted[2], splitted[3]].join(""));
+    return normalizeStem(
+      removeDiacritics([splitted[0], splitted[2], splitted[3]].join(""))
+    );
   }
 
   if (
@@ -181,9 +224,13 @@ const getSecondRoot = (word: string) => {
       splitted[1].includes("ت"))
   ) {
     if (splitted.length < 3) {
-      return removeDiacritics([splitted[0], splitted[2]].join(""));
+      return normalizeStem(
+        removeDiacritics([splitted[0], splitted[2]].join(""))
+      );
     } else {
-      return removeDiacritics([splitted[0], splitted[2], splitted[3]].join(""));
+      return normalizeStem(
+        removeDiacritics([splitted[0], splitted[2], splitted[3]].join(""))
+      );
     }
   }
 
@@ -197,7 +244,9 @@ const getThirdRoot = (word: string) => {
     splitted.length > 1 &&
     splitted[1].includes(commonArabicDiacritics.shadda)
   ) {
-    return removeDiacritics([splitted[0], splitted[1], splitted[1]].join(""));
+    return normalizeStem(
+      removeDiacritics([splitted[0], splitted[1], splitted[1]].join(""))
+    );
   }
 
   return "";
@@ -213,4 +262,62 @@ const getFourthRoot = (word: string) => {
   return "";
 };
 
-export { getFirstRoot, getSecondRoot, getThirdRoot, getFourthRoot };
+const getFifthRoot = (word: string) => {
+  //const StableLetters = ["ج", "ح", "خ", "ع", "غ", "ر", "ز", "ص", "ش", "ث", "ق"];
+
+  const StableLetters = [
+    "ل",
+    "ن",
+    "ر",
+    "ع",
+    "ب",
+    "ك",
+    "ق",
+    "ه",
+    "د",
+    "س",
+    "ف",
+    "ح",
+    "ذ",
+    "ج",
+    "خ",
+    "ى",
+    "ث",
+    "ص",
+    "ز",
+    "ش",
+    "ض",
+    "ط",
+    "غ",
+    "ظ",
+    "ء",
+    "ؤ",
+    "آ",
+    "إ",
+  ];
+
+  const splitted = splitArabicLetters(word);
+
+  const rootLetters: string[] = [];
+
+  for (const letter of splitted) {
+    const cleanLetter = removeDiacritics(letter);
+    if (StableLetters.includes(cleanLetter)) {
+      rootLetters.push(cleanLetter);
+      if (rootLetters.length === 3) {
+        break;
+      }
+    }
+  }
+
+  return normalizeStem(rootLetters.join(""));
+};
+
+export {
+  normalizeStem,
+  getFirstRoot,
+  getSecondRoot,
+  getThirdRoot,
+  getFourthRoot,
+  getFifthRoot,
+};
