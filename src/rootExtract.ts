@@ -180,6 +180,11 @@ const getFirstRoot = (word: string) => {
 
   const wordLength = splitted.length;
 
+  if (wordLength == 2 && splitted[1].includes(commonArabicDiacritics.shadda)) {
+    splitted[1] = splitted[1].replace(commonArabicDiacritics.shadda, "");
+    splitted.push(splitted[1]);
+  }
+
   if (
     wordLength > 1 &&
     (splitted[wordLength - 1].includes("ئ") ||
@@ -263,8 +268,6 @@ const getFourthRoot = (word: string) => {
 };
 
 const getFifthRoot = (word: string) => {
-  //const StableLetters = ["ج", "ح", "خ", "ع", "غ", "ر", "ز", "ص", "ش", "ث", "ق"];
-
   const StableLetters = [
     "ل",
     "ن",
@@ -299,14 +302,22 @@ const getFifthRoot = (word: string) => {
   const splitted = splitArabicLetters(word);
 
   const rootLetters: string[] = [];
+  let lastStableIndex = 0;
 
   for (const letter of splitted) {
     const cleanLetter = removeDiacritics(letter);
     if (StableLetters.includes(cleanLetter)) {
       rootLetters.push(cleanLetter);
+      lastStableIndex++;
       if (rootLetters.length === 3) {
         break;
       }
+    }
+  }
+
+  if (rootLetters.length < 3) {
+    if (lastStableIndex > 0 && lastStableIndex < splitted.length) {
+      rootLetters.push(removeDiacritics(splitted[lastStableIndex]!));
     }
   }
 

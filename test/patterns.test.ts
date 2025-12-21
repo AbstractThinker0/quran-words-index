@@ -23,20 +23,34 @@ describe("patterns tests", () => {
   test("Check اسْتَ - اسْتِ - اسْتُ - أَسْتَ - انْ - مُسْتَ - يَسْتَ - نَسْتَ - يَنْ - يُسْتَ - يُتَ - يَتَّ - اتَّ prefix extracted roots", () => {
     for (const wordKey in wordsIndex) {
       const currWord = wordsIndex[wordKey];
-      const wordWord = wordsIndex[wordKey].word;
+      if (!currWord) {
+        throw new Error(`Missing entry for key: ${wordKey}`);
+      }
+
       const splittedWord = splitArabicLetters(currWord.unprefixed);
-      const errorMsg = `Word: ${wordWord}, Key: ${wordKey}, Prefix: ${currWord.bound_prefix}, Unprefixed: ${currWord.unprefixed}, Extracted: ${currWord.extracted_root}`;
+      const secondLetter = splittedWord[1];
+      const thirdLetter = splittedWord[2];
+      const fourthLetter = splittedWord[3];
+      const errorMsg = `Word: ${currWord.word}, Key: ${wordKey}, Prefix: ${currWord.bound_prefix}, Unprefixed: ${currWord.unprefixed}, Extracted: ${currWord.extracted_root}`;
+
+      let stem = currWord.unprefixed;
+
+      if (
+        currWord.suffix &&
+        currWord.suffix !== "pending" &&
+        currWord.suffix !== "none"
+      ) {
+        if (stem.endsWith(currWord.suffix)) {
+          stem = stem.slice(0, -currWord.suffix.length);
+        }
+      }
 
       if (currWord.extraction_method === "5") {
-        expectWithInfo(
-          currWord.extracted_root,
-          getFifthRoot(currWord.unprefixed),
-          errorMsg
-        );
+        expectWithInfo(currWord.extracted_root, getFifthRoot(stem), errorMsg);
       } else if (currWord.bound_prefix === "اسْتَ") {
         if (
           splittedWord.length > 1 &&
-          splittedWord[1].includes(commonArabicDiacritics.shadda)
+          secondLetter?.includes(commonArabicDiacritics.shadda)
         ) {
           expectWithInfo(
             currWord.extracted_root,
@@ -51,7 +65,7 @@ describe("patterns tests", () => {
           );
         }
       } else if (currWord.bound_prefix === "اسْتِ") {
-        if (splittedWord.length > 3 && splittedWord[3] === "ءٍ") {
+        if (splittedWord.length > 3 && fourthLetter === "ءٍ") {
           expectWithInfo(
             currWord.extracted_root,
             getFirstRoot(currWord.unprefixed),
@@ -79,14 +93,14 @@ describe("patterns tests", () => {
       } else if (currWord.bound_prefix === "انْ") {
         if (
           splittedWord.length > 1 &&
-          splittedWord[1].includes(commonArabicDiacritics.shadda)
+          secondLetter?.includes(commonArabicDiacritics.shadda)
         ) {
           expectWithInfo(
             currWord.extracted_root,
             getThirdRoot(currWord.unprefixed),
             errorMsg
           );
-        } else if (splittedWord.length > 1 && splittedWord[2] === "ا") {
+        } else if (splittedWord.length > 1 && thirdLetter === "ا") {
           expectWithInfo(
             currWord.extracted_root,
             getSecondRoot(currWord.unprefixed),
@@ -102,7 +116,7 @@ describe("patterns tests", () => {
       } else if (currWord.bound_prefix === "مُسْتَ") {
         if (
           splittedWord.length > 1 &&
-          splittedWord[1].includes(commonArabicDiacritics.shadda)
+          secondLetter?.includes(commonArabicDiacritics.shadda)
         ) {
           expectWithInfo(
             currWord.extracted_root,
@@ -119,7 +133,7 @@ describe("patterns tests", () => {
       } else if (currWord.bound_prefix === "يَسْتَ") {
         if (
           splittedWord.length > 1 &&
-          splittedWord[1].includes(commonArabicDiacritics.shadda)
+          secondLetter?.includes(commonArabicDiacritics.shadda)
         ) {
           expectWithInfo(
             currWord.extracted_root,
