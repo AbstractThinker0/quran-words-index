@@ -360,7 +360,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "8:6": {
@@ -576,7 +576,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "11:3": {
@@ -1254,7 +1254,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "18:5": {
@@ -1424,7 +1424,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "19:17": {
@@ -1683,7 +1683,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "22:5": {
@@ -3295,7 +3295,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعُوضَةً",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "ةً"
   },
   "32:9": {
@@ -3503,7 +3503,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "32:32": {
@@ -5071,7 +5071,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "42:10": {
@@ -5081,7 +5081,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "42:11": {
@@ -5314,7 +5314,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "44:8": {
@@ -7446,7 +7446,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "63:15": {
@@ -10231,7 +10231,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضِهَا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هَا"
   },
   "79:3": {
@@ -10873,7 +10873,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "82:9": {
@@ -10889,7 +10889,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "82:11": {
@@ -12383,7 +12383,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضِ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "91:24": {
@@ -12413,7 +12413,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "91:27": {
@@ -14716,7 +14716,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "103:16": {
@@ -15306,7 +15306,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "108:11": {
@@ -18784,7 +18784,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "126:15": {
@@ -22420,7 +22420,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "148:16": {
@@ -23308,7 +23308,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "151:16": {
@@ -23334,7 +23334,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "151:19": {
@@ -24628,7 +24628,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "160:11": {
@@ -25212,7 +25212,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "165:8": {
@@ -27926,7 +27926,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "181:5": {
@@ -28194,7 +28194,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "183:9": {
@@ -29884,7 +29884,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "191:7": {
@@ -29922,7 +29922,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "191:11": {
@@ -31258,7 +31258,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "195:16": {
@@ -32310,7 +32310,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هَدْيِ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "202:10": {
@@ -32362,7 +32362,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هَدْيُ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "202:16": {
@@ -32605,7 +32605,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هَدْيِ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "202:44": {
@@ -35721,7 +35721,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "219:44": {
@@ -38482,7 +38482,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "231:7": {
@@ -41373,7 +41373,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "241:18": {
@@ -42915,7 +42915,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "249:24": {
@@ -45100,7 +45100,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "257:18": {
@@ -45110,7 +45110,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "257:19": {
@@ -45140,7 +45140,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "257:22": {
@@ -45301,7 +45301,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "259:4": {
@@ -45317,7 +45317,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "259:6": {
@@ -45369,7 +45369,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "259:12": {
@@ -45573,7 +45573,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنِ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "259:35": {
@@ -45687,7 +45687,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "259:48": {
@@ -47142,7 +47142,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "264:41": {
@@ -47413,7 +47413,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "265:30": {
@@ -47849,7 +47849,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "266:14": {
@@ -48894,7 +48894,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "270:37": {
@@ -50325,7 +50325,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "278:4": {
@@ -50343,7 +50343,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "278:6": {
@@ -53381,7 +53381,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "289:12": {
@@ -53389,7 +53389,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضًا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "ا"
   },
   "289:13": {
@@ -54711,7 +54711,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "296:3": {
@@ -55513,7 +55513,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هَدَيْتَنَا",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "تَنَا"
   },
   "300:7": {
@@ -59634,7 +59634,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهَا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هَا"
   },
   "326:2": {
@@ -59650,7 +59650,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "326:4": {
@@ -62307,7 +62307,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "342:9": {
@@ -64125,7 +64125,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُنَا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "نَا"
   },
   "356:21": {
@@ -64133,7 +64133,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضًا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "ا"
   },
   "356:22": {
@@ -64596,7 +64596,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "359:7": {
@@ -65296,7 +65296,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "365:9": {
@@ -66630,7 +66630,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "371:19": {
@@ -67697,7 +67697,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "378:2": {
@@ -67822,7 +67822,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "378:16": {
@@ -69033,7 +69033,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "388:9": {
@@ -72234,7 +72234,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "409:21": {
@@ -74863,7 +74863,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "430:4": {
@@ -77999,7 +77999,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضِ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "447:11": {
@@ -81836,7 +81836,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "471:21": {
@@ -84553,7 +84553,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "487:14": {
@@ -84569,7 +84569,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "487:16": {
@@ -84938,7 +84938,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنِ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "490:1": {
@@ -89781,7 +89781,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضِ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "511:15": {
@@ -90146,7 +90146,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "513:5": {
@@ -90162,7 +90162,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "513:7": {
@@ -91360,7 +91360,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "517:20": {
@@ -91376,7 +91376,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "517:22": {
@@ -91746,7 +91746,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيَكُمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "كُمْ"
   },
   "518:5": {
@@ -92485,7 +92485,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "524:7": {
@@ -92501,7 +92501,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "524:9": {
@@ -92897,7 +92897,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "526:8": {
@@ -92913,7 +92913,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "526:10": {
@@ -95382,7 +95382,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "538:31": {
@@ -98845,7 +98845,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هَدَيْنَاهُمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "نَاهُمْ"
   },
   "560:1": {
@@ -108184,7 +108184,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "607:9": {
@@ -111984,7 +111984,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيَهُمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "هُمْ"
   },
   "629:19": {
@@ -113975,7 +113975,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "642:14": {
@@ -113995,7 +113995,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "642:16": {
@@ -115133,7 +115133,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "649:14": {
@@ -115764,7 +115764,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنِ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "654:1": {
@@ -116488,7 +116488,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنِ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "658:1": {
@@ -116794,7 +116794,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيَهُمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "هُمْ"
   },
   "660:11": {
@@ -118195,7 +118195,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيهِمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "هِمْ"
   },
   "667:12": {
@@ -121091,7 +121091,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "674:55": {
@@ -123043,7 +123043,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "684:1": {
@@ -123171,7 +123171,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيهِمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "هِمْ"
   },
   "684:15": {
@@ -128490,7 +128490,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "712:5": {
@@ -129258,7 +129258,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "714:16": {
@@ -129332,7 +129332,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "714:24": {
@@ -129822,7 +129822,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "716:36": {
@@ -130076,7 +130076,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضِ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "717:14": {
@@ -130190,7 +130190,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضِ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "717:27": {
@@ -130422,7 +130422,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "719:10": {
@@ -130438,7 +130438,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "719:12": {
@@ -130516,7 +130516,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "719:21": {
@@ -133494,7 +133494,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "735:23": {
@@ -135944,7 +135944,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "749:12": {
@@ -137041,7 +137041,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "757:7": {
@@ -139834,7 +139834,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "771:12": {
@@ -141137,7 +141137,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "776:20": {
@@ -148113,7 +148113,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "821:10": {
@@ -148557,7 +148557,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "823:24": {
@@ -148814,7 +148814,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "825:16": {
@@ -149554,7 +149554,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "831:6": {
@@ -151037,7 +151037,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "841:3": {
@@ -151047,7 +151047,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "841:4": {
@@ -153036,7 +153036,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "853:19": {
@@ -153052,7 +153052,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "853:21": {
@@ -153508,7 +153508,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "857:9": {
@@ -154231,7 +154231,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "859:35": {
@@ -155993,7 +155993,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هَدَيْنَا",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "نَا"
   },
   "872:6": {
@@ -156011,7 +156011,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هَدَيْنَا",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "نَا"
   },
   "872:8": {
@@ -156332,7 +156332,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هَدَيْنَاهُمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "نَاهُمْ"
   },
   "875:6": {
@@ -156390,7 +156390,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "876:4": {
@@ -156993,7 +156993,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "879:24": {
@@ -160588,7 +160588,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "899:20": {
@@ -160694,7 +160694,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "900:10": {
@@ -160710,7 +160710,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "900:12": {
@@ -162743,7 +162743,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيَهُ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "هُ"
   },
   "913:5": {
@@ -163255,7 +163255,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُنَا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "نَا"
   },
   "916:17": {
@@ -163265,7 +163265,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "916:18": {
@@ -163446,7 +163446,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "917:3": {
@@ -163464,7 +163464,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضًا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "ا"
   },
   "917:5": {
@@ -166265,7 +166265,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "932:38": {
@@ -168536,7 +168536,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "942:12": {
@@ -168904,7 +168904,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "945:16": {
@@ -169172,7 +169172,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "946:12": {
@@ -169212,7 +169212,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "946:17": {
@@ -170269,7 +170269,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "953:7": {
@@ -170285,7 +170285,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "953:9": {
@@ -172790,7 +172790,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "977:3": {
@@ -172800,7 +172800,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "977:4": {
@@ -175437,7 +175437,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "991:38": {
@@ -177578,7 +177578,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1005:7": {
@@ -179140,7 +179140,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنِّي",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1014:7": {
@@ -179832,7 +179832,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنِّي",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1020:7": {
@@ -181729,7 +181729,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1032:12": {
@@ -184258,7 +184258,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1049:13": {
@@ -187592,7 +187592,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1084:19": {
@@ -189349,7 +189349,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنِ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1096:15": {
@@ -190467,7 +190467,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيهِمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "هِمْ"
   },
   "1101:18": {
@@ -191442,7 +191442,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1107:10": {
@@ -191756,7 +191756,7 @@
     ],
     "bound_prefix": "تَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1108:31": {
@@ -193220,7 +193220,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1113:40": {
@@ -195682,7 +195682,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّهُ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1129:5": {
@@ -197302,7 +197302,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1140:33": {
@@ -198096,7 +198096,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1146:4": {
@@ -198715,7 +198715,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1151:4": {
@@ -199267,7 +199267,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1156:20": {
@@ -201735,7 +201735,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1176:3": {
@@ -201797,7 +201797,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1176:10": {
@@ -204089,7 +204089,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1193:18": {
@@ -204485,7 +204485,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهُ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُ"
   },
   "1196:8": {
@@ -204501,7 +204501,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1196:10": {
@@ -205396,7 +205396,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1201:16": {
@@ -205687,7 +205687,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1202:14": {
@@ -208521,7 +208521,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1222:14": {
@@ -209927,7 +209927,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "1231:15": {
@@ -209943,7 +209943,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1231:17": {
@@ -210216,7 +210216,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "1232:3": {
@@ -210232,7 +210232,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1232:5": {
@@ -210573,7 +210573,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "1234:12": {
@@ -210591,7 +210591,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1234:14": {
@@ -213714,7 +213714,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1253:22": {
@@ -214485,7 +214485,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1258:31": {
@@ -216044,7 +216044,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1267:5": {
@@ -217130,7 +217130,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1271:29": {
@@ -218125,7 +218125,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1276:8": {
@@ -218696,7 +218696,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1280:7": {
@@ -220166,7 +220166,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّهُمْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1290:8": {
@@ -221693,7 +221693,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "1301:3": {
@@ -221709,7 +221709,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1301:5": {
@@ -222484,7 +222484,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1304:23": {
@@ -222538,7 +222538,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "1305:3": {
@@ -222554,7 +222554,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1305:5": {
@@ -224266,7 +224266,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1314:23": {
@@ -225371,7 +225371,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنِ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1322:1": {
@@ -229159,7 +229159,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1343:25": {
@@ -232456,7 +232456,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "1361:6": {
@@ -232472,7 +232472,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1361:8": {
@@ -234218,7 +234218,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيهِمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "هِمْ"
   },
   "1372:6": {
@@ -237396,7 +237396,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1388:6": {
@@ -238820,7 +238820,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1398:6": {
@@ -238864,7 +238864,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1398:11": {
@@ -238893,7 +238893,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1398:14": {
@@ -239253,7 +239253,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1400:10": {
@@ -240049,7 +240049,7 @@
     "prefixes": [],
     "bound_prefix": "تَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1406:6": {
@@ -240155,7 +240155,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1407:7": {
@@ -240379,7 +240379,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1409:3": {
@@ -241549,7 +241549,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1418:13": {
@@ -241731,7 +241731,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1420:13": {
@@ -242166,7 +242166,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1423:16": {
@@ -248157,7 +248157,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1467:18": {
@@ -250530,7 +250530,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1484:3": {
@@ -251589,7 +251589,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1489:35": {
@@ -253250,7 +253250,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنِّي",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1501:20": {
@@ -256863,7 +256863,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1526:5": {
@@ -263067,7 +263067,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1573:3": {
@@ -266924,7 +266924,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1605:12": {
@@ -268307,7 +268307,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1616:28": {
@@ -270996,7 +270996,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1633:22": {
@@ -271360,7 +271360,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1635:28": {
@@ -273153,7 +273153,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1647:10": {
@@ -275370,7 +275370,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1663:26": {
@@ -281205,7 +281205,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1706:12": {
@@ -281275,7 +281275,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1706:20": {
@@ -281440,7 +281440,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1707:15": {
@@ -282073,7 +282073,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهَا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هَا"
   },
   "1710:17": {
@@ -282089,7 +282089,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1710:19": {
@@ -286104,7 +286104,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1733:16": {
@@ -287852,7 +287852,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهُ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُ"
   },
   "1742:12": {
@@ -288431,7 +288431,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1746:4": {
@@ -289526,7 +289526,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1753:14": {
@@ -290879,7 +290879,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1760:9": {
@@ -292275,7 +292275,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هَدَيْنَاكُمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "نَاكُمْ"
   },
   "1770:25": {
@@ -305740,7 +305740,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1933:19": {
@@ -306447,7 +306447,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1937:8": {
@@ -306620,7 +306620,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1938:14": {
@@ -308961,7 +308961,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1961:11": {
@@ -309469,7 +309469,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1964:11": {
@@ -310437,7 +310437,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "1971:3": {
@@ -310453,7 +310453,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "1971:5": {
@@ -313281,7 +313281,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1989:21": {
@@ -313973,7 +313973,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "1993:7": {
@@ -314007,7 +314007,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "1993:11": {
@@ -315122,7 +315122,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2002:11": {
@@ -315347,7 +315347,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيهِمُ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "هِمُ"
   },
   "2004:8": {
@@ -315598,7 +315598,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "2006:13": {
@@ -315796,7 +315796,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2007:11": {
@@ -317202,7 +317202,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "2018:12": {
@@ -318647,7 +318647,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2030:5": {
@@ -319473,7 +319473,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2037:4": {
@@ -320925,7 +320925,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "2049:4": {
@@ -320941,7 +320941,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2049:6": {
@@ -323547,7 +323547,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "2072:14": {
@@ -324858,7 +324858,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2083:9": {
@@ -324884,7 +324884,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2083:12": {
@@ -329003,7 +329003,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "2116:17": {
@@ -329013,7 +329013,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2116:18": {
@@ -329714,7 +329714,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2122:8": {
@@ -333171,7 +333171,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2153:0": {
@@ -334263,7 +334263,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2158:14": {
@@ -335302,7 +335302,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيَنِ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "نِ"
   },
   "2163:12": {
@@ -337278,7 +337278,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّا",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "2177:1": {
@@ -339594,7 +339594,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2194:8": {
@@ -340077,7 +340077,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2196:26": {
@@ -344496,7 +344496,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "2238:2": {
@@ -344528,7 +344528,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2238:6": {
@@ -348930,7 +348930,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنِ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "2287:6": {
@@ -350830,7 +350830,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هَدَيْنَا",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "نَا"
   },
   "2307:20": {
@@ -352649,7 +352649,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2325:5": {
@@ -354764,7 +354764,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2358:0": {
@@ -357112,7 +357112,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2395:0": {
@@ -360944,7 +360944,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّا",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "2434:6": {
@@ -364343,7 +364343,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "2470:5": {
@@ -364353,7 +364353,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2470:6": {
@@ -364395,7 +364395,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2470:11": {
@@ -376420,7 +376420,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "2596:19": {
@@ -377556,7 +377556,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2602:10": {
@@ -378634,7 +378634,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2610:7": {
@@ -381736,7 +381736,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "2631:7": {
@@ -382194,7 +382194,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "2634:16": {
@@ -382204,7 +382204,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2634:17": {
@@ -383027,7 +383027,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "2640:18": {
@@ -385777,7 +385777,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2661:16": {
@@ -391174,7 +391174,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "2716:12": {
@@ -391182,7 +391182,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضًا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "ا"
   },
   "2716:13": {
@@ -394713,7 +394713,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "2763:18": {
@@ -394729,7 +394729,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2763:20": {
@@ -396237,7 +396237,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2785:5": {
@@ -399499,7 +399499,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "2811:28": {
@@ -402532,7 +402532,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2825:36": {
@@ -403377,7 +403377,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهَا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هَا"
   },
   "2830:15": {
@@ -403393,7 +403393,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2830:17": {
@@ -404516,7 +404516,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "2836:6": {
@@ -406457,7 +406457,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "2848:40": {
@@ -406473,7 +406473,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2848:42": {
@@ -407798,7 +407798,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضِ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2852:27": {
@@ -407966,7 +407966,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضِكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "2853:7": {
@@ -407974,7 +407974,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضًا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "ا"
   },
   "2853:8": {
@@ -410371,7 +410371,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "2872:13": {
@@ -410697,7 +410697,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "2874:14": {
@@ -410707,7 +410707,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "2874:15": {
@@ -426416,7 +426416,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضِ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "3129:4": {
@@ -427901,7 +427901,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3160:1": {
@@ -431544,7 +431544,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هَدِيَّتِكُمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "تِكُمْ"
   },
   "3194:15": {
@@ -435726,7 +435726,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "3230:7": {
@@ -435808,7 +435808,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3231:7": {
@@ -436109,7 +436109,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3235:2": {
@@ -439440,7 +439440,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3264:14": {
@@ -440820,7 +440820,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيَنِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "نِي"
   },
   "3273:9": {
@@ -443206,7 +443206,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3288:7": {
@@ -444037,7 +444037,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3294:13": {
@@ -444189,7 +444189,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّا",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3296:1": {
@@ -444317,7 +444317,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّا",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3296:16": {
@@ -444397,7 +444397,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3297:7": {
@@ -445118,7 +445118,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3301:15": {
@@ -445170,7 +445170,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3301:21": {
@@ -445705,7 +445705,7 @@
     "prefixes": [],
     "bound_prefix": "تَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3307:3": {
@@ -445731,7 +445731,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3307:6": {
@@ -445749,7 +445749,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3307:8": {
@@ -445830,7 +445830,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3308:4": {
@@ -445981,7 +445981,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3308:22": {
@@ -450008,7 +450008,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3336:14": {
@@ -453563,7 +453563,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "3364:17": {
@@ -453573,7 +453573,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "3364:18": {
@@ -453591,7 +453591,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "3364:20": {
@@ -453599,7 +453599,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضًا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "ا"
   },
   "3364:21": {
@@ -455646,7 +455646,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3379:25": {
@@ -459193,7 +459193,7 @@
     ],
     "bound_prefix": "نَ",
     "unprefixed": "هْدِيَنَّهُمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "نَّهُمْ"
   },
   "3408:4": {
@@ -459619,7 +459619,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3414:7": {
@@ -460202,7 +460202,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3417:29": {
@@ -462410,7 +462410,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3437:9": {
@@ -462636,7 +462636,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3438:18": {
@@ -464027,7 +464027,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "3449:11": {
@@ -466065,7 +466065,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّكُمْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3464:17": {
@@ -466585,7 +466585,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3471:1": {
@@ -466714,7 +466714,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3473:3": {
@@ -469096,7 +469096,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3488:27": {
@@ -472742,7 +472742,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3515:7": {
@@ -473943,7 +473943,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3525:12": {
@@ -475206,7 +475206,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3536:27": {
@@ -475402,7 +475402,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3537:21": {
@@ -475553,7 +475553,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "3538:10": {
@@ -475571,7 +475571,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "3538:12": {
@@ -481266,7 +481266,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3572:8": {
@@ -483336,7 +483336,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3585:18": {
@@ -487116,7 +487116,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3611:12": {
@@ -490025,7 +490025,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3629:13": {
@@ -490406,7 +490406,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3633:8": {
@@ -490761,7 +490761,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "3636:20": {
@@ -490777,7 +490777,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "3636:22": {
@@ -490945,7 +490945,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3637:9": {
@@ -491563,7 +491563,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3641:9": {
@@ -492282,7 +492282,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "3647:4": {
@@ -492292,7 +492292,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "3647:5": {
@@ -495096,7 +495096,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "3667:13": {
@@ -499729,7 +499729,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "3699:30": {
@@ -499737,7 +499737,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضًا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "ا"
   },
   "3699:31": {
@@ -500695,7 +500695,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "3704:13": {
@@ -508413,7 +508413,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "3814:2": {
@@ -508429,7 +508429,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "3814:4": {
@@ -509403,7 +509403,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "3837:2": {
@@ -509419,7 +509419,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "3837:4": {
@@ -512421,7 +512421,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هَدَيْنَاهُمَا",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "نَاهُمَا"
   },
   "3905:1": {
@@ -516545,7 +516545,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُنَا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "نَا"
   },
   "3991:12": {
@@ -516561,7 +516561,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "3991:14": {
@@ -516888,7 +516888,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "3993:13": {
@@ -516904,7 +516904,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "3993:15": {
@@ -521795,7 +521795,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4060:29": {
@@ -524320,7 +524320,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنِ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4077:1": {
@@ -525131,7 +525131,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4080:24": {
@@ -528423,7 +528423,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4106:19": {
@@ -531089,7 +531089,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4128:29": {
@@ -535267,7 +535267,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "4160:29": {
@@ -535319,7 +535319,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4160:35": {
@@ -538608,7 +538608,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4185:4": {
@@ -538652,7 +538652,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4186:1": {
@@ -539072,7 +539072,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4189:8": {
@@ -539290,7 +539290,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4191:7": {
@@ -539585,7 +539585,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4193:16": {
@@ -541347,7 +541347,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "4209:8": {
@@ -544429,7 +544429,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هَدَيْنَاهُمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "نَاهُمْ"
   },
   "4234:3": {
@@ -544467,7 +544467,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4234:7": {
@@ -545011,7 +545011,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4239:12": {
@@ -547895,7 +547895,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4261:15": {
@@ -550298,7 +550298,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4279:7": {
@@ -551265,7 +551265,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4284:35": {
@@ -553740,7 +553740,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4298:9": {
@@ -556905,7 +556905,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4323:14": {
@@ -556929,7 +556929,7 @@
     "prefixes": [],
     "bound_prefix": "نَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4323:17": {
@@ -556991,7 +556991,7 @@
     ],
     "bound_prefix": "تَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4323:24": {
@@ -559802,7 +559802,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "4356:13": {
@@ -559818,7 +559818,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "4356:15": {
@@ -559844,7 +559844,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "4356:18": {
@@ -559852,7 +559852,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضًا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "ا"
   },
   "4356:19": {
@@ -560592,7 +560592,7 @@
     "prefixes": [],
     "bound_prefix": "تَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4364:5": {
@@ -562526,7 +562526,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "4387:11": {
@@ -562866,7 +562866,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "4391:3": {
@@ -562876,7 +562876,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "4391:4": {
@@ -563444,7 +563444,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4400:3": {
@@ -563585,7 +563585,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4402:4": {
@@ -566592,7 +566592,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4452:5": {
@@ -568470,7 +568470,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4483:2": {
@@ -569562,7 +569562,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "4491:10": {
@@ -569578,7 +569578,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "4491:12": {
@@ -569643,7 +569643,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4492:4": {
@@ -570589,7 +570589,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4498:14": {
@@ -573308,7 +573308,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4519:22": {
@@ -575488,7 +575488,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنِّي",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4532:10": {
@@ -576576,7 +576576,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4539:15": {
@@ -578176,7 +578176,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4548:27": {
@@ -578194,7 +578194,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "4548:29": {
@@ -578204,7 +578204,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "4548:30": {
@@ -578285,7 +578285,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيهِمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "هِمْ"
   },
   "4549:1": {
@@ -579848,7 +579848,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هُدًى",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4561:4": {
@@ -580922,7 +580922,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضِ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "4570:11": {
@@ -581522,7 +581522,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4576:15": {
@@ -582541,7 +582541,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيَكَ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "كَ"
   },
   "4584:13": {
@@ -585372,7 +585372,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِيَكُمْ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "كُمْ"
   },
   "4602:16": {
@@ -586781,7 +586781,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4610:5": {
@@ -587662,7 +587662,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضِكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "4613:16": {
@@ -587672,7 +587672,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "4613:17": {
@@ -588321,7 +588321,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4618:13": {
@@ -589306,7 +589306,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "4623:10": {
@@ -589368,7 +589368,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُكُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "كُمْ"
   },
   "4623:17": {
@@ -589376,7 +589376,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضًا",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "ا"
   },
   "4623:18": {
@@ -589740,7 +589740,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4625:7": {
@@ -592394,7 +592394,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4656:6": {
@@ -598155,7 +598155,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "4759:2": {
@@ -598171,7 +598171,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "4759:4": {
@@ -599544,7 +599544,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "4781:7": {
@@ -600742,7 +600742,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "4807:0": {
@@ -612056,7 +612056,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "5063:5": {
@@ -614656,7 +614656,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّكُمْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "5088:7": {
@@ -622897,7 +622897,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "5131:14": {
@@ -629629,7 +629629,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "5167:22": {
@@ -630047,7 +630047,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "5169:14": {
@@ -630213,7 +630213,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "5171:5": {
@@ -631759,7 +631759,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "5181:21": {
@@ -633529,7 +633529,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "5193:16": {
@@ -633699,7 +633699,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "5194:17": {
@@ -633860,7 +633860,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنَّ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "5195:14": {
@@ -639426,7 +639426,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضِ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "5231:5": {
@@ -639514,7 +639514,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَهُ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُ"
   },
   "5231:15": {
@@ -639540,7 +639540,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "5231:18": {
@@ -645532,7 +645532,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضُهُمْ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "هُمْ"
   },
   "5300:2": {
@@ -645548,7 +645548,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضٍ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "5300:4": {
@@ -648980,7 +648980,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "بَعْضَ",
-    "extracted_root": "",
+    "extracted_root": "بعض",
     "suffix": "none"
   },
   "5366:4": {
@@ -653371,7 +653371,7 @@
     "prefixes": [],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "5448:1": {
@@ -654354,7 +654354,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "5459:4": {
@@ -658781,7 +658781,7 @@
     ],
     "bound_prefix": "يَ",
     "unprefixed": "هْدِي",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "5525:44": {
@@ -660895,7 +660895,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "لَـٰكِنْ",
-    "extracted_root": "",
+    "extracted_root": "لكن",
     "suffix": ""
   },
   "5582:1": {
@@ -661494,7 +661494,7 @@
     "prefixes": [],
     "bound_prefix": "",
     "unprefixed": "هَدَيْنَاهُ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "نَاهُ"
   },
   "5593:2": {
@@ -667149,7 +667149,7 @@
     ],
     "bound_prefix": "أَ",
     "unprefixed": "هْدِيَكَ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "كَ"
   },
   "5730:1": {
@@ -678317,7 +678317,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هَدَيْنَاهُ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "نَاهُ"
   },
   "6032:1": {
@@ -679621,7 +679621,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "6070:0": {
@@ -681363,7 +681363,7 @@
     ],
     "bound_prefix": "",
     "unprefixed": "هُدَىٰ",
-    "extracted_root": "",
+    "extracted_root": "هدي",
     "suffix": "none"
   },
   "6117:0": {
