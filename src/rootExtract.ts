@@ -56,9 +56,17 @@ const normalizeStem = (root: string) => {
     root = "أ" + root.slice(1);
   }
 
-  if (root[2] && root[2] === "ي") {
+  // TODO: further investigae this commented out condition (Maybe remove it?)
+  if (root[2] && root[2] === "ي" /*&& root[1] === "ل"*/) {
     root = root.slice(0, 2) + "ى" + root.slice(3);
   }
+
+  /*
+  // TODO: further investigae this commented out condition (Maybe remove it?)
+  if (root[2] && root[2] === "ى" && root[1] !== "ل" && root.length === 3) {
+    root = root.slice(0, 2) + "ي" + root.slice(3);
+  }
+  */
 
   return root;
 };
@@ -269,6 +277,7 @@ const getFourthRoot = (word: string) => {
 
 const getFifthRoot = (word: string) => {
   const StableLetters = [
+    "م",
     "ل",
     "ن",
     "ر",
