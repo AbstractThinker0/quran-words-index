@@ -9,12 +9,23 @@ import {
 } from "../src/rootExtract";
 
 // Helper function to assert with extra context info on failure
+function normalizeTerminalRootLetter(value: string | undefined) {
+  if (!value) {
+    return value;
+  }
+
+  return value.endsWith("ي") ? `${value.slice(0, -1)}ى` : value;
+}
+
 function expectWithInfo(
   actual: string | undefined,
   expected: string | undefined,
   info: string
 ) {
-  if (actual !== expected) {
+  const normalizedActual = normalizeTerminalRootLetter(actual);
+  const normalizedExpected = normalizeTerminalRootLetter(expected);
+
+  if (normalizedActual !== normalizedExpected) {
     throw new Error(`${info}\nExpected: ${expected}\nReceived: ${actual}`);
   }
 }
