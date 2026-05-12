@@ -311957,8 +311957,8 @@
     "bound_prefix": "",
     "unprefixed": "دَّوَائِرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "دور",
+    "extraction_method": "4",
     "suffix": "none"
   },
   "1332:10": {
@@ -837388,8 +837388,8 @@
     "bound_prefix": "",
     "unprefixed": "عَيْنَانِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "عين",
+    "extraction_method": "4",
     "suffix": "none"
   },
   "4950:2": {
@@ -838197,8 +838197,8 @@
     "bound_prefix": "",
     "unprefixed": "عَيْنَانِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "عين",
+    "extraction_method": "4",
     "suffix": "none"
   },
   "4966:2": {
@@ -928831,8 +928831,8 @@
     "bound_prefix": "",
     "unprefixed": "تَّرَائِبِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ترب",
+    "extraction_method": "4",
     "suffix": "none"
   },
   "5938:0": {
