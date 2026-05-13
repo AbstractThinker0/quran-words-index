@@ -333,6 +333,10 @@ const getFifthRoot = (word: string) => {
   return normalizeStem(rootLetters.join(""));
 };
 
+const getSixthRoot = (word: string) => {
+  return splitArabicLetters(removeDiacritics(word)).slice(0, 3).join("");
+};
+
 export {
   normalizeStem,
   getFirstRoot,
@@ -340,4 +344,5 @@ export {
   getThirdRoot,
   getFourthRoot,
   getFifthRoot,
+  getSixthRoot,
 };

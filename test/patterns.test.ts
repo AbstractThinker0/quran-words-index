@@ -5,6 +5,7 @@ import {
   getFifthRoot,
   getFirstRoot,
   getSecondRoot,
+  getSixthRoot,
   getThirdRoot,
 } from "../src/rootExtract";
 
@@ -58,6 +59,12 @@ describe("patterns tests", () => {
 
       if (currWord.extraction_method === "5") {
         expectWithInfo(currWord.extracted_root, getFifthRoot(stem), errorMsg);
+      } else if (currWord.extraction_method === "6") {
+        expectWithInfo(
+          currWord.extracted_root,
+          getSixthRoot(currWord.unprefixed),
+          errorMsg
+        );
       } else if (currWord.bound_prefix === "اسْتَ") {
         if (
           splittedWord.length > 1 &&
