@@ -4,6 +4,7 @@ import { commonArabicDiacritics } from "../src/consts";
 import {
   getFifthRoot,
   getFirstRoot,
+  getFourthRoot,
   getSecondRoot,
   getSixthRoot,
   getThirdRoot,
@@ -57,7 +58,9 @@ describe("patterns tests", () => {
         }
       }
 
-      if (currWord.extraction_method === "5") {
+      if (currWord.extraction_method === "4") {
+        expectWithInfo(currWord.extracted_root, getFourthRoot(stem), errorMsg);
+      } else if (currWord.extraction_method === "5") {
         expectWithInfo(currWord.extracted_root, getFifthRoot(stem), errorMsg);
       } else if (currWord.extraction_method === "6") {
         expectWithInfo(
