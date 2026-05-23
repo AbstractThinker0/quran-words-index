@@ -6,6 +6,7 @@ import {
   getFifthRoot,
   getFirstRoot,
   getFourthRoot,
+  getNinthRoot,
   getSecondRoot,
   getSeventhRoot,
   getSixthRoot,
@@ -78,6 +79,12 @@ describe("patterns tests", () => {
         );
       } else if (currWord.extraction_method === "8") {
         expectWithInfo(currWord.extracted_root, getEighthRoot(stem), errorMsg);
+      } else if (currWord.extraction_method === "9") {
+        expectWithInfo(
+          currWord.extracted_root,
+          getNinthRoot(currWord.unprefixed),
+          errorMsg
+        );
       } else if (currWord.bound_prefix === "اسْتَ") {
         if (
           splittedWord.length > 1 &&

@@ -1,4 +1,8 @@
-import { splitArabicLetters, removeDiacritics } from "quran-tools";
+import {
+  splitArabicLetters,
+  removeDiacritics,
+  normalizeAlif,
+} from "quran-tools";
 import { commonArabicDiacritics } from "./consts";
 
 const extractSuffix = (word: string) => {
@@ -364,6 +368,22 @@ const getEighthRoot = (word: string) => {
   return "";
 };
 
+const getNinthRoot = (word: string) => {
+  const splitted = splitArabicLetters(removeDiacritics(word)).slice(0, 3);
+
+  splitted[0] = normalizeAlif(splitted[0], true);
+
+  if (splitted[0] == "ؤ" || splitted[0] == "ئ") {
+    splitted[0] = "ا";
+  }
+
+  if (splitted[0] == "ا") {
+    splitted[0] = "أ";
+  }
+
+  return splitted.join("");
+};
+
 export {
   normalizeStem,
   getFirstRoot,
@@ -374,4 +394,5 @@ export {
   getSixthRoot,
   getSeventhRoot,
   getEighthRoot,
+  getNinthRoot,
 };
