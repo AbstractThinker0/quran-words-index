@@ -722,8 +722,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "10:10": {
@@ -1225,8 +1225,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "14:8": {
@@ -1495,8 +1495,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "16:9": {
@@ -1618,8 +1618,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "17:7": {
@@ -3385,8 +3385,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "28:4": {
@@ -5128,8 +5128,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "33:17": {
@@ -5406,8 +5406,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "35:7": {
@@ -5629,8 +5629,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "36:8": {
@@ -6405,8 +6405,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "39:17": {
@@ -7062,8 +7062,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "42:15": {
@@ -11165,8 +11165,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "66:27": {
@@ -11385,8 +11385,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "67:17": {
@@ -12079,8 +12079,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "68:12": {
@@ -13863,8 +13863,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "77:9": {
@@ -17545,8 +17545,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "92:6": {
@@ -19673,8 +19673,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةُ"
   },
   "100:6": {
@@ -21925,8 +21925,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "108:64": {
@@ -22357,8 +22357,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "111:0": {
@@ -22984,8 +22984,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "113:8": {
@@ -25036,8 +25036,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "120:28": {
@@ -25332,8 +25332,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "122:11": {
@@ -25397,8 +25397,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "123:3": {
@@ -27516,8 +27516,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "132:18": {
@@ -28398,8 +28398,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "136:16": {
@@ -35614,8 +35614,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "170:5": {
@@ -35884,8 +35884,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "170:26": {
@@ -36055,8 +36055,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "170:40": {
@@ -36960,8 +36960,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "174:7": {
@@ -38544,8 +38544,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "181:0": {
@@ -39039,8 +39039,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "183:15": {
@@ -39939,8 +39939,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "185:0": {
@@ -40923,8 +40923,8 @@
     "bound_prefix": "",
     "unprefixed": "أُخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "190:13": {
@@ -41494,8 +41494,8 @@
     "bound_prefix": "",
     "unprefixed": "أُخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "191:27": {
@@ -46402,8 +46402,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "206:22": {
@@ -46542,8 +46542,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "207:10": {
@@ -46850,8 +46850,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أَخَّرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "209:14": {
@@ -47249,8 +47249,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "211:5": {
@@ -50808,8 +50808,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "223:51": {
@@ -51409,8 +51409,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "226:3": {
@@ -53539,8 +53539,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "234:21": {
@@ -55495,8 +55495,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "238:24": {
@@ -62070,8 +62070,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "257:21": {
@@ -63401,8 +63401,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "261:19": {
@@ -63713,8 +63713,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "261:44": {
@@ -67074,8 +67074,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "270:19": {
@@ -68235,8 +68235,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "273:14": {
@@ -69696,8 +69696,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "279:11": {
@@ -73785,8 +73785,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "290:7": {
@@ -75563,8 +75563,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "297:8": {
@@ -75893,8 +75893,8 @@
     "bound_prefix": "",
     "unprefixed": "أُخَرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "299:12": {
@@ -79316,8 +79316,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "314:0": {
@@ -79396,8 +79396,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "314:7": {
@@ -81125,8 +81125,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "321:17": {
@@ -84482,8 +84482,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "337:19": {
@@ -86721,8 +86721,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "348:9": {
@@ -89556,8 +89556,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "هُ"
   },
   "364:15": {
@@ -90738,8 +90738,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "369:14": {
@@ -90902,8 +90902,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "370:0": {
@@ -92397,8 +92397,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "375:10": {
@@ -92942,8 +92942,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "377:11": {
@@ -93852,8 +93852,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "383:12": {
@@ -93950,8 +93950,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "383:20": {
@@ -97358,8 +97358,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "401:7": {
@@ -98463,8 +98463,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "406:4": {
@@ -101440,8 +101440,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "421:7": {
@@ -101928,8 +101928,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "425:9": {
@@ -102674,8 +102674,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "429:8": {
@@ -104162,8 +104162,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "437:20": {
@@ -104767,8 +104767,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "440:7": {
@@ -105601,8 +105601,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةَ"
   },
   "444:28": {
@@ -107346,8 +107346,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "448:14": {
@@ -111735,8 +111735,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "468:19": {
@@ -111912,8 +111912,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "470:0": {
@@ -112905,8 +112905,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "472:26": {
@@ -114913,8 +114913,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "481:0": {
@@ -114964,8 +114964,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "481:4": {
@@ -115078,8 +115078,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "482:5": {
@@ -115301,8 +115301,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "483:12": {
@@ -123022,8 +123022,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "511:0": {
@@ -128824,8 +128824,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "530:11": {
@@ -128989,8 +128989,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "531:7": {
@@ -129524,8 +129524,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "534:10": {
@@ -133669,8 +133669,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "551:25": {
@@ -136527,8 +136527,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "566:9": {
@@ -137666,8 +137666,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَّرْتَنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "تَنَا"
   },
   "569:34": {
@@ -137751,8 +137751,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةُ"
   },
   "569:42": {
@@ -141372,8 +141372,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "583:2": {
@@ -143758,8 +143758,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "589:14": {
@@ -143803,8 +143803,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "589:18": {
@@ -144260,8 +144260,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "592:8": {
@@ -144585,8 +144585,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "593:4": {
@@ -145874,8 +145874,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْلَمُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ونَ"
   },
   "596:8": {
@@ -145896,8 +145896,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْلَمُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ونَ"
   },
   "596:10": {
@@ -145921,8 +145921,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْلَمُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ونَ"
   },
   "596:12": {
@@ -150221,8 +150221,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "618:7": {
@@ -151603,8 +151603,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "623:7": {
@@ -151854,8 +151854,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "623:28": {
@@ -151983,8 +151983,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "624:7": {
@@ -152097,8 +152097,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "625:7": {
@@ -152274,8 +152274,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "626:10": {
@@ -153090,8 +153090,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "628:25": {
@@ -153452,8 +153452,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "631:0": {
@@ -158525,8 +158525,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "654:0": {
@@ -158804,8 +158804,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "654:22": {
@@ -160313,8 +160313,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "662:20": {
@@ -160965,8 +160965,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "663:51": {
@@ -161447,8 +161447,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "665:17": {
@@ -165119,8 +165119,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "673:41": {
@@ -168992,8 +168992,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "685:27": {
@@ -169053,8 +169053,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "685:32": {
@@ -169490,8 +169490,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "686:26": {
@@ -170218,8 +170218,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "689:4": {
@@ -171273,8 +171273,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "694:9": {
@@ -171533,8 +171533,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "695:16": {
@@ -172154,8 +172154,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "699:6": {
@@ -172600,8 +172600,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "700:17": {
@@ -172862,8 +172862,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "700:39": {
@@ -172977,8 +172977,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "701:9": {
@@ -173149,8 +173149,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "701:24": {
@@ -173247,8 +173247,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "701:32": {
@@ -173682,8 +173682,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "704:9": {
@@ -173864,8 +173864,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "705:0": {
@@ -174431,8 +174431,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "708:8": {
@@ -174860,8 +174860,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "709:25": {
@@ -175353,8 +175353,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "709:66": {
@@ -182011,8 +182011,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "732:42": {
@@ -183328,8 +183328,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "737:12": {
@@ -184580,8 +184580,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "742:0": {
@@ -189306,8 +189306,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "763:0": {
@@ -190437,8 +190437,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "765:22": {
@@ -192327,8 +192327,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرَانِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "انِ"
   },
   "774:18": {
@@ -192408,8 +192408,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "774:25": {
@@ -192823,8 +192823,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرَانِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "انِ"
   },
   "775:7": {
@@ -195031,8 +195031,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "782:16": {
@@ -196634,8 +196634,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "788:4": {
@@ -196845,8 +196845,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "789:10": {
@@ -197192,8 +197192,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "791:6": {
@@ -197680,8 +197680,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "794:11": {
@@ -197932,8 +197932,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "795:0": {
@@ -198614,8 +198614,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "799:4": {
@@ -198761,8 +198761,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "800:6": {
@@ -199206,8 +199206,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "802:8": {
@@ -202761,8 +202761,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةُ"
   },
   "820:8": {
@@ -203424,8 +203424,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "823:12": {
@@ -204028,8 +204028,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "826:5": {
@@ -208588,8 +208588,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "847:23": {
@@ -211084,8 +211084,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "858:42": {
@@ -211383,8 +211383,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "859:22": {
@@ -211740,8 +211740,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "861:5": {
@@ -212217,8 +212217,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "863:6": {
@@ -212951,8 +212951,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "867:7": {
@@ -215757,8 +215757,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "880:16": {
@@ -218272,8 +218272,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "889:3": {
@@ -220706,8 +220706,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "901:7": {
@@ -221270,8 +221270,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "904:6": {
@@ -225097,8 +225097,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "922:0": {
@@ -229981,8 +229981,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "938:24": {
@@ -233692,8 +233692,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "953:5": {
@@ -234975,8 +234975,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "963:4": {
@@ -237319,8 +237319,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "977:8": {
@@ -242577,8 +242577,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "998:9": {
@@ -244449,8 +244449,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1007:7": {
@@ -244892,8 +244892,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1009:4": {
@@ -248476,8 +248476,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1026:28": {
@@ -248560,8 +248560,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1027:0": {
@@ -248684,8 +248684,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1027:10": {
@@ -248848,8 +248848,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1027:24": {
@@ -250686,8 +250686,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1038:30": {
@@ -253156,8 +253156,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1049:12": {
@@ -253622,8 +253622,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1053:5": {
@@ -255151,8 +255151,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "كُمْ"
   },
   "1063:5": {
@@ -256838,8 +256838,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1080:11": {
@@ -257052,8 +257052,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1081:8": {
@@ -257368,8 +257368,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1082:19": {
@@ -258766,8 +258766,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1090:7": {
@@ -261047,8 +261047,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1099:7": {
@@ -261442,8 +261442,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1100:5": {
@@ -263770,8 +263770,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1109:8": {
@@ -264717,8 +264717,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1111:14": {
@@ -267183,8 +267183,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1121:3": {
@@ -267756,8 +267756,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةُ"
   },
   "1122:35": {
@@ -268986,8 +268986,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1129:8": {
@@ -270532,8 +270532,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1138:6": {
@@ -271057,8 +271057,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1140:19": {
@@ -278902,8 +278902,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1185:7": {
@@ -280174,8 +280174,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1192:0": {
@@ -285961,8 +285961,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "1219:15": {
@@ -286578,8 +286578,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1222:8": {
@@ -287565,8 +287565,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1226:11": {
@@ -287635,8 +287635,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةَ"
   },
   "1226:17": {
@@ -289020,8 +289020,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1232:11": {
@@ -289654,8 +289654,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1236:3": {
@@ -290184,8 +290184,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1238:0": {
@@ -293216,8 +293216,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1252:9": {
@@ -293523,8 +293523,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1253:11": {
@@ -294899,8 +294899,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1259:18": {
@@ -295767,8 +295767,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1263:8": {
@@ -297288,8 +297288,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1269:0": {
@@ -297696,8 +297696,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1270:15": {
@@ -298518,8 +298518,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1272:16": {
@@ -298580,8 +298580,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1272:21": {
@@ -298651,8 +298651,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1272:27": {
@@ -298727,8 +298727,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "1273:5": {
@@ -300080,8 +300080,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1278:7": {
@@ -300259,8 +300259,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1279:8": {
@@ -303580,8 +303580,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1296:0": {
@@ -305215,8 +305215,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1303:29": {
@@ -306745,8 +306745,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "1308:35": {
@@ -306780,8 +306780,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1308:38": {
@@ -306832,8 +306832,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1308:42": {
@@ -307712,8 +307712,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1314:0": {
@@ -310036,8 +310036,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1325:0": {
@@ -312116,8 +312116,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1333:7": {
@@ -312933,8 +312933,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ونَ"
   },
   "1336:1": {
@@ -313003,8 +313003,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1336:7": {
@@ -313712,8 +313712,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ونَ"
   },
   "1340:1": {
@@ -316322,8 +316322,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1350:6": {
@@ -316885,8 +316885,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1352:9": {
@@ -320238,8 +320238,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1366:7": {
@@ -320804,8 +320804,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1367:25": {
@@ -321272,8 +321272,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1369:11": {
@@ -321820,8 +321820,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1373:8": {
@@ -322702,8 +322702,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1377:5": {
@@ -323920,8 +323920,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1381:25": {
@@ -325192,8 +325192,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1386:7": {
@@ -325566,8 +325566,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1387:12": {
@@ -325656,8 +325656,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1387:20": {
@@ -327164,8 +327164,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1394:6": {
@@ -331414,8 +331414,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1417:8": {
@@ -331662,8 +331662,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1418:7": {
@@ -332970,8 +332970,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1424:29": {
@@ -333383,8 +333383,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1427:7": {
@@ -333712,8 +333712,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1429:9": {
@@ -334263,8 +334263,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1431:14": {
@@ -336351,8 +336351,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1441:12": {
@@ -337134,8 +337134,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1446:19": {
@@ -338057,8 +338057,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1452:0": {
@@ -339638,8 +339638,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1461:0": {
@@ -339963,8 +339963,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1462:7": {
@@ -340300,8 +340300,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1464:6": {
@@ -342953,8 +342953,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1478:5": {
@@ -343149,8 +343149,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1479:5": {
@@ -343486,8 +343486,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَّرْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "1480:2": {
@@ -345079,8 +345079,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1488:6": {
@@ -346065,8 +346065,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1491:9": {
@@ -346159,8 +346159,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1492:6": {
@@ -346547,8 +346547,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1494:5": {
@@ -347110,8 +347110,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1499:0": {
@@ -350773,8 +350773,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1516:3": {
@@ -351881,8 +351881,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1521:0": {
@@ -354368,8 +354368,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1533:18": {
@@ -355146,8 +355146,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1536:11": {
@@ -358852,8 +358852,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1557:14": {
@@ -361967,8 +361967,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1574:11": {
@@ -362069,8 +362069,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1575:8": {
@@ -362190,8 +362190,8 @@
     "bound_prefix": "نُ",
     "unprefixed": "ؤَخِّرُهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "هُ"
   },
   "1576:2": {
@@ -362513,8 +362513,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1579:6": {
@@ -362743,8 +362743,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1580:11": {
@@ -364170,8 +364170,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1588:13": {
@@ -365122,8 +365122,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1595:4": {
@@ -366615,8 +366615,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "ا"
   },
   "1604:5": {
@@ -368630,8 +368630,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1616:19": {
@@ -369687,8 +369687,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1621:0": {
@@ -371729,8 +371729,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1631:12": {
@@ -372180,8 +372180,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1632:24": {
@@ -373157,8 +373157,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1636:10": {
@@ -373655,8 +373655,8 @@
     "bound_prefix": "",
     "unprefixed": "أُخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1638:14": {
@@ -374169,8 +374169,8 @@
     "bound_prefix": "",
     "unprefixed": "أُخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1641:15": {
@@ -375879,8 +375879,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1650:5": {
@@ -375972,8 +375972,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1651:5": {
@@ -376141,8 +376141,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1652:2": {
@@ -379259,8 +379259,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1668:9": {
@@ -380790,8 +380790,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1675:26": {
@@ -384770,8 +384770,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1696:12": {
@@ -384825,8 +384825,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1696:17": {
@@ -385310,8 +385310,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1700:6": {
@@ -386007,8 +386007,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1704:15": {
@@ -386118,8 +386118,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1704:24": {
@@ -387289,8 +387289,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1709:4": {
@@ -387556,8 +387556,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1710:2": {
@@ -390200,8 +390200,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1721:6": {
@@ -390327,8 +390327,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1722:5": {
@@ -391278,8 +391278,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1723:38": {
@@ -391498,8 +391498,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1724:14": {
@@ -392802,8 +392802,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1731:17": {
@@ -393064,8 +393064,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1732:14": {
@@ -393992,8 +393992,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1737:10": {
@@ -394886,8 +394886,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1739:20": {
@@ -395209,8 +395209,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1740:7": {
@@ -396637,8 +396637,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1747:5": {
@@ -397544,8 +397544,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1751:9": {
@@ -397675,8 +397675,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1752:6": {
@@ -398815,8 +398815,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1757:8": {
@@ -399415,8 +399415,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1759:8": {
@@ -399490,8 +399490,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَخِّرَكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "كُمْ"
   },
   "1759:14": {
@@ -400372,8 +400372,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "نَا"
   },
   "1762:7": {
@@ -400504,8 +400504,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1763:2": {
@@ -401280,8 +401280,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1768:7": {
@@ -402377,8 +402377,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1772:0": {
@@ -403011,8 +403011,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1775:9": {
@@ -403195,8 +403195,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1776:11": {
@@ -403926,8 +403926,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1781:5": {
@@ -405329,8 +405329,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1787:15": {
@@ -405829,8 +405829,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَخِّرُهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "هُمْ"
   },
   "1791:9": {
@@ -406108,8 +406108,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخِّرْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "1793:10": {
@@ -406821,8 +406821,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1797:3": {
@@ -406846,8 +406846,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1797:5": {
@@ -408978,8 +408978,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1820:1": {
@@ -410900,8 +410900,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1840:8": {
@@ -411725,8 +411725,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1852:0": {
@@ -414138,8 +414138,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1886:4": {
@@ -415010,8 +415010,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1897:6": {
@@ -415676,8 +415676,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1903:3": {
@@ -417048,8 +417048,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1913:5": {
@@ -417437,8 +417437,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1915:3": {
@@ -418165,8 +418165,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1922:7": {
@@ -419684,8 +419684,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1930:16": {
@@ -421124,8 +421124,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1936:23": {
@@ -421995,8 +421995,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1941:14": {
@@ -422559,8 +422559,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1945:9": {
@@ -423122,8 +423122,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1949:8": {
@@ -423480,8 +423480,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1952:5": {
@@ -424527,8 +424527,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "1960:4": {
@@ -424782,8 +424782,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَخِّرُهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "هُمْ"
   },
   "1961:12": {
@@ -425341,8 +425341,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "1964:0": {
@@ -425618,8 +425618,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1965:8": {
@@ -427498,8 +427498,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1973:12": {
@@ -428407,8 +428407,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1977:4": {
@@ -433769,8 +433769,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "2005:0": {
@@ -434292,8 +434292,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2007:7": {
@@ -434558,8 +434558,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2009:5": {
@@ -436144,8 +436144,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "2018:0": {
@@ -436848,8 +436848,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2022:7": {
@@ -438563,8 +438563,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2032:9": {
@@ -439077,8 +439077,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2035:11": {
@@ -439604,8 +439604,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2038:5": {
@@ -439652,8 +439652,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "2039:0": {
@@ -441081,8 +441081,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةَ"
   },
   "2047:3": {
@@ -441412,8 +441412,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةُ"
   },
   "2049:7": {
@@ -441534,8 +441534,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2050:6": {
@@ -443927,8 +443927,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2065:4": {
@@ -443988,8 +443988,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2065:9": {
@@ -444271,8 +444271,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2067:13": {
@@ -444869,8 +444869,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2072:5": {
@@ -445181,8 +445181,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2073:10": {
@@ -446731,8 +446731,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2083:6": {
@@ -448221,8 +448221,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَّرْتَنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "تَنِ"
   },
   "2090:8": {
@@ -450046,8 +450046,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2100:8": {
@@ -450531,8 +450531,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2104:5": {
@@ -452716,8 +452716,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2118:9": {
@@ -453522,8 +453522,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2123:5": {
@@ -454343,8 +454343,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2127:8": {
@@ -455024,8 +455024,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2130:10": {
@@ -455151,8 +455151,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2131:5": {
@@ -455286,8 +455286,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2132:7": {
@@ -455333,8 +455333,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2132:11": {
@@ -457348,8 +457348,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2146:5": {
@@ -458243,8 +458243,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2153:10": {
@@ -461354,8 +461354,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2165:9": {
@@ -465087,8 +465087,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2184:13": {
@@ -465423,8 +465423,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2186:5": {
@@ -466417,8 +466417,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2190:5": {
@@ -471885,8 +471885,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2223:5": {
@@ -473220,8 +473220,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2233:10": {
@@ -480382,8 +480382,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2289:4": {
@@ -483729,8 +483729,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2314:3": {
@@ -486484,8 +486484,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2339:6": {
@@ -486707,8 +486707,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2342:6": {
@@ -487496,8 +487496,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2351:4": {
@@ -487656,8 +487656,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2353:7": {
@@ -491904,8 +491904,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2400:4": {
@@ -492414,8 +492414,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "نَا"
   },
   "2404:5": {
@@ -493160,8 +493160,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "كُمْ"
   },
   "2410:9": {
@@ -502185,8 +502185,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2474:10": {
@@ -504193,8 +504193,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2486:7": {
@@ -505099,8 +505099,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "2494:0": {
@@ -505518,8 +505518,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2498:4": {
@@ -505905,8 +505905,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2501:5": {
@@ -506129,8 +506129,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2503:5": {
@@ -507441,8 +507441,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2512:7": {
@@ -507612,8 +507612,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2513:3": {
@@ -509618,8 +509618,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2526:13": {
@@ -511039,8 +511039,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2538:6": {
@@ -512518,8 +512518,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2553:4": {
@@ -513954,8 +513954,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2563:7": {
@@ -517257,8 +517257,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2587:9": {
@@ -519417,8 +519417,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2599:58": {
@@ -520562,8 +520562,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةَ"
   },
   "2605:21": {
@@ -521238,8 +521238,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2609:10": {
@@ -521909,8 +521909,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2612:12": {
@@ -523344,8 +523344,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "2620:0": {
@@ -526606,8 +526606,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2635:5": {
@@ -527285,8 +527285,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2640:4": {
@@ -530312,8 +530312,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2657:10": {
@@ -530449,8 +530449,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2658:7": {
@@ -530622,8 +530622,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2659:9": {
@@ -530757,8 +530757,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2659:20": {
@@ -531449,8 +531449,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2664:9": {
@@ -534650,8 +534650,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2686:17": {
@@ -535051,8 +535051,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2690:8": {
@@ -537153,8 +537153,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "2704:0": {
@@ -537437,8 +537437,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2705:9": {
@@ -538404,8 +538404,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "2715:0": {
@@ -541322,8 +541322,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2743:7": {
@@ -541661,8 +541661,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2746:5": {
@@ -542267,8 +542267,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2751:5": {
@@ -542765,8 +542765,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2756:3": {
@@ -545596,8 +545596,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2784:5": {
@@ -546118,8 +546118,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2789:6": {
@@ -546764,8 +546764,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2792:21": {
@@ -548798,8 +548798,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2804:8": {
@@ -549573,8 +549573,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "2809:12": {
@@ -549608,8 +549608,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2809:15": {
@@ -550628,8 +550628,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "2813:10": {
@@ -553915,8 +553915,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2825:4": {
@@ -555795,8 +555795,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2831:10": {
@@ -555981,8 +555981,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2832:4": {
@@ -558606,8 +558606,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2845:10": {
@@ -559154,8 +559154,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2847:7": {
@@ -561973,8 +561973,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "2854:0": {
@@ -562053,8 +562053,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2854:7": {
@@ -562459,8 +562459,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2856:5": {
@@ -563046,8 +563046,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ونَ"
   },
   "2858:12": {
@@ -563295,8 +563295,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2860:8": {
@@ -567736,8 +567736,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "2892:0": {
@@ -570612,8 +570612,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2913:4": {
@@ -571300,8 +571300,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2917:6": {
@@ -571813,8 +571813,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2922:7": {
@@ -573665,8 +573665,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2938:4": {
@@ -575111,8 +575111,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2955:4": {
@@ -575991,8 +575991,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "كُمْ"
   },
   "2966:5": {
@@ -578241,8 +578241,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "2996:0": {
@@ -578342,8 +578342,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "2998:0": {
@@ -579452,8 +579452,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "3016:0": {
@@ -583654,8 +583654,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3083:4": {
@@ -585155,8 +585155,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "3104:0": {
@@ -585929,8 +585929,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3114:8": {
@@ -587264,8 +587264,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "3133:0": {
@@ -587965,8 +587965,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "3144:6": {
@@ -589234,8 +589234,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3161:7": {
@@ -589315,8 +589315,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3162:5": {
@@ -589480,8 +589480,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3163:8": {
@@ -592825,8 +592825,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3183:9": {
@@ -596473,8 +596473,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3206:8": {
@@ -597837,8 +597837,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3218:4": {
@@ -598170,8 +598170,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3219:3": {
@@ -598523,8 +598523,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3220:10": {
@@ -598970,8 +598970,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3222:10": {
@@ -599157,8 +599157,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3223:7": {
@@ -599303,8 +599303,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3224:5": {
@@ -599705,8 +599705,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3227:4": {
@@ -600372,8 +600372,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3233:6": {
@@ -601209,8 +601209,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3240:9": {
@@ -602017,8 +602017,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3245:11": {
@@ -603388,8 +603388,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3255:5": {
@@ -603644,8 +603644,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3256:8": {
@@ -603748,8 +603748,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3257:4": {
@@ -606597,8 +606597,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3270:27": {
@@ -610985,8 +610985,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3290:5": {
@@ -614134,8 +614134,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "نَا"
   },
   "3308:8": {
@@ -616342,8 +616342,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3321:11": {
@@ -617763,8 +617763,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةَ"
   },
   "3328:6": {
@@ -617947,8 +617947,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3328:21": {
@@ -618852,8 +618852,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3332:4": {
@@ -619364,8 +619364,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةُ"
   },
   "3334:3": {
@@ -619447,8 +619447,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3334:10": {
@@ -620376,8 +620376,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "3339:6": {
@@ -623665,8 +623665,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3359:4": {
@@ -623777,8 +623777,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةَ"
   },
   "3359:13": {
@@ -624003,8 +624003,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3361:5": {
@@ -624314,8 +624314,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "3363:0": {
@@ -625203,8 +625203,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3366:16": {
@@ -626764,8 +626764,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "3375:12": {
@@ -626811,8 +626811,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3375:16": {
@@ -627252,8 +627252,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3378:10": {
@@ -627497,8 +627497,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3379:17": {
@@ -628175,8 +628175,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3383:4": {
@@ -629858,8 +629858,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3391:11": {
@@ -630415,8 +630415,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "ي"
   },
   "3395:6": {
@@ -631027,8 +631027,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3400:6": {
@@ -631412,8 +631412,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3402:10": {
@@ -631693,8 +631693,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةَ"
   },
   "3403:10": {
@@ -632659,8 +632659,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3411:3": {
@@ -633223,8 +633223,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3415:8": {
@@ -633361,8 +633361,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3416:9": {
@@ -633566,8 +633566,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3417:4": {
@@ -633716,8 +633716,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3417:17": {
@@ -634611,8 +634611,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3424:7": {
@@ -634798,8 +634798,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3426:5": {
@@ -634964,8 +634964,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3427:10": {
@@ -635459,8 +635459,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3430:5": {
@@ -635895,8 +635895,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3432:13": {
@@ -636067,8 +636067,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3433:6": {
@@ -636150,8 +636150,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3433:13": {
@@ -636243,8 +636243,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3434:5": {
@@ -636460,8 +636460,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3435:15": {
@@ -639314,8 +639314,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3450:4": {
@@ -640884,8 +640884,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3458:8": {
@@ -642950,8 +642950,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3472:7": {
@@ -643470,8 +643470,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "3476:0": {
@@ -643757,8 +643757,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3478:8": {
@@ -645300,8 +645300,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3484:18": {
@@ -645698,8 +645698,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3486:8": {
@@ -646071,8 +646071,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3488:12": {
@@ -647081,8 +647081,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3493:6": {
@@ -647257,8 +647257,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3494:5": {
@@ -647363,8 +647363,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3495:4": {
@@ -649323,8 +649323,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3502:22": {
@@ -649811,8 +649811,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3506:5": {
@@ -650123,8 +650123,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3507:6": {
@@ -650776,8 +650776,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3512:5": {
@@ -653536,8 +653536,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3529:7": {
@@ -655689,8 +655689,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "3541:0": {
@@ -658494,8 +658494,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "3553:14": {
@@ -659553,8 +659553,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "هُمْ"
   },
   "3559:2": {
@@ -659589,8 +659589,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "ا"
   },
   "3559:5": {
@@ -659946,8 +659946,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةَ"
   },
   "3561:7": {
@@ -666984,8 +666984,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3589:10": {
@@ -669093,8 +669093,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3604:6": {
@@ -669598,8 +669598,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3606:14": {
@@ -669647,8 +669647,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3606:18": {
@@ -669744,8 +669744,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3607:5": {
@@ -670171,8 +670171,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3608:22": {
@@ -670544,8 +670544,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "3611:0": {
@@ -671065,8 +671065,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3613:12": {
@@ -671250,8 +671250,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3614:11": {
@@ -671310,8 +671310,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3614:16": {
@@ -672435,8 +672435,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3619:11": {
@@ -673835,8 +673835,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3626:11": {
@@ -674131,8 +674131,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3627:16": {
@@ -674587,8 +674587,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3629:6": {
@@ -675403,8 +675403,8 @@
     "bound_prefix": "تَسْتَ",
     "unprefixed": "أْخِرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ونَ"
   },
   "3635:6": {
@@ -680200,8 +680200,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3660:9": {
@@ -680860,8 +680860,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3662:16": {
@@ -682028,8 +682028,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3668:13": {
@@ -687421,8 +687421,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3697:6": {
@@ -687538,8 +687538,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3698:6": {
@@ -687916,8 +687916,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3699:13": {
@@ -688208,8 +688208,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3700:5": {
@@ -688619,8 +688619,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3702:3": {
@@ -688952,8 +688952,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3703:4": {
@@ -689214,8 +689214,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3703:26": {
@@ -689431,8 +689431,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَخِّرُهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "هُمْ"
   },
   "3704:14": {
@@ -691302,8 +691302,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "3723:0": {
@@ -692832,8 +692832,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3737:3": {
@@ -693231,8 +693231,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3740:8": {
@@ -698208,8 +698208,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3785:5": {
@@ -698716,8 +698716,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3792:3": {
@@ -701029,8 +701029,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "3826:0": {
@@ -703310,8 +703310,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "3866:0": {
@@ -703501,8 +703501,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "3870:0": {
@@ -705168,8 +705168,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "3896:0": {
@@ -705784,8 +705784,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "3907:0": {
@@ -706296,8 +706296,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "3917:0": {
@@ -706617,8 +706617,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "3924:0": {
@@ -709828,8 +709828,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "3976:6": {
@@ -710201,8 +710201,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3979:5": {
@@ -712312,8 +712312,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3995:7": {
@@ -712657,8 +712657,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3996:4": {
@@ -712918,8 +712918,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3997:9": {
@@ -713869,8 +713869,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "4007:1": {
@@ -715472,8 +715472,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "4027:1": {
@@ -716314,8 +716314,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4035:3": {
@@ -718869,8 +718869,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4062:3": {
@@ -720423,8 +720423,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةَ"
   },
   "4066:9": {
@@ -720760,8 +720760,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4067:14": {
@@ -722445,8 +722445,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4078:12": {
@@ -723711,8 +723711,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "4083:8": {
@@ -725294,8 +725294,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4095:6": {
@@ -726649,8 +726649,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4101:8": {
@@ -726803,8 +726803,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "4102:10": {
@@ -726959,8 +726959,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4103:5": {
@@ -727181,8 +727181,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4104:7": {
@@ -729935,8 +729935,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4120:4": {
@@ -730436,8 +730436,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4124:6": {
@@ -730694,8 +730694,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4125:10": {
@@ -730860,8 +730860,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4126:2": {
@@ -731994,8 +731994,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4131:8": {
@@ -735639,8 +735639,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4153:4": {
@@ -735822,8 +735822,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4153:20": {
@@ -736678,8 +736678,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4158:17": {
@@ -737407,8 +737407,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4161:8": {
@@ -739473,8 +739473,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةَ"
   },
   "4171:9": {
@@ -740236,8 +740236,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "4175:13": {
@@ -742360,8 +742360,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4189:3": {
@@ -743466,8 +743466,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4196:5": {
@@ -745316,8 +745316,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4207:6": {
@@ -746406,8 +746406,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4214:4": {
@@ -746581,8 +746581,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4214:19": {
@@ -747939,8 +747939,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "4224:6": {
@@ -748144,8 +748144,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4226:6": {
@@ -748517,8 +748517,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4228:9": {
@@ -749266,8 +749266,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4232:5": {
@@ -749675,8 +749675,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "4233:15": {
@@ -752140,8 +752140,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "4248:7": {
@@ -753385,8 +753385,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4256:5": {
@@ -754343,8 +754343,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "4261:0": {
@@ -757021,8 +757021,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4275:7": {
@@ -757224,8 +757224,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4276:13": {
@@ -758337,8 +758337,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4282:3": {
@@ -758580,8 +758580,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4283:4": {
@@ -760711,8 +760711,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "4291:5": {
@@ -760881,8 +760881,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "4291:20": {
@@ -761185,8 +761185,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "4293:0": {
@@ -762487,8 +762487,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4298:8": {
@@ -762832,8 +762832,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4300:5": {
@@ -763145,8 +763145,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4302:5": {
@@ -764620,8 +764620,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4313:9": {
@@ -764692,8 +764692,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "4314:0": {
@@ -766175,8 +766175,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4320:4": {
@@ -767118,8 +767118,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4324:10": {
@@ -767837,8 +767837,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4333:6": {
@@ -767941,8 +767941,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4334:4": {
@@ -771414,8 +771414,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةُ"
   },
   "4359:9": {
@@ -773850,8 +773850,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "4381:0": {
@@ -774329,8 +774329,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4384:7": {
@@ -775010,8 +775010,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "4390:0": {
@@ -776526,8 +776526,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4406:4": {
@@ -776755,8 +776755,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4408:7": {
@@ -776876,8 +776876,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4409:6": {
@@ -777822,8 +777822,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4420:3": {
@@ -778178,8 +778178,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "4425:0": {
@@ -779374,8 +779374,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "4442:0": {
@@ -779434,8 +779434,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4442:5": {
@@ -780191,8 +780191,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4451:4": {
@@ -781738,8 +781738,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4475:4": {
@@ -782040,8 +782040,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4477:13": {
@@ -782475,8 +782475,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "4481:0": {
@@ -782965,8 +782965,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "4484:0": {
@@ -783250,8 +783250,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4485:8": {
@@ -784774,8 +784774,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4494:4": {
@@ -785892,8 +785892,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4499:4": {
@@ -787408,8 +787408,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4508:6": {
@@ -787492,8 +787492,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4509:5": {
@@ -787714,8 +787714,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4512:4": {
@@ -787990,8 +787990,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4513:12": {
@@ -791921,8 +791921,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4529:22": {
@@ -792800,8 +792800,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "4534:0": {
@@ -794343,8 +794343,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "4541:0": {
@@ -794455,8 +794455,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4541:9": {
@@ -794657,8 +794657,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4542:8": {
@@ -796881,8 +796881,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4554:4": {
@@ -799560,8 +799560,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4566:8": {
@@ -802257,8 +802257,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أَخَّرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "4584:9": {
@@ -802549,8 +802549,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4586:15": {
@@ -803144,8 +803144,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4589:4": {
@@ -804510,8 +804510,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4596:4": {
@@ -805324,8 +805324,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "4599:0": {
@@ -805662,8 +805662,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "4600:0": {
@@ -807335,8 +807335,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "4608:0": {
@@ -812710,8 +812710,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4627:12": {
@@ -813031,8 +813031,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4629:6": {
@@ -813438,8 +813438,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4633:5": {
@@ -813758,8 +813758,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4636:1": {
@@ -815641,8 +815641,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "4655:6": {
@@ -816863,8 +816863,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4667:4": {
@@ -817479,8 +817479,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4673:3": {
@@ -818703,8 +818703,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4694:2": {
@@ -818882,8 +818882,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4697:3": {
@@ -820043,8 +820043,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "4712:0": {
@@ -820932,8 +820932,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4722:1": {
@@ -821224,8 +821224,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "4725:6": {
@@ -824664,8 +824664,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4770:4": {
@@ -827406,8 +827406,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةُ"
   },
   "4808:2": {
@@ -827688,8 +827688,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "4810:5": {
@@ -828354,8 +828354,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4814:7": {
@@ -828682,8 +828682,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4815:18": {
@@ -831267,8 +831267,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4857:2": {
@@ -834998,8 +834998,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4910:1": {
@@ -836029,8 +836029,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4929:5": {
@@ -836374,8 +836374,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4933:12": {
@@ -838997,8 +838997,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4982:3": {
@@ -839383,8 +839383,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "4993:0": {
@@ -840363,8 +840363,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "5019:0": {
@@ -840833,8 +840833,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "5028:0": {
@@ -843548,8 +843548,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5075:10": {
@@ -843635,8 +843635,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5076:4": {
@@ -843753,8 +843753,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "5077:3": {
@@ -843889,8 +843889,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5078:5": {
@@ -844028,8 +844028,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5078:17": {
@@ -844314,8 +844314,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5079:4": {
@@ -845223,8 +845223,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5084:11": {
@@ -847101,8 +847101,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5091:5": {
@@ -847947,8 +847947,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "5094:27": {
@@ -848214,8 +848214,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5095:10": {
@@ -848466,8 +848466,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5096:6": {
@@ -851594,8 +851594,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "5108:0": {
@@ -852123,8 +852123,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5110:11": {
@@ -855736,8 +855736,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "5125:7": {
@@ -856389,8 +856389,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5126:12": {
@@ -857065,8 +857065,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "5128:12": {
@@ -860073,8 +860073,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "5141:0": {
@@ -861626,8 +861626,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5149:14": {
@@ -863553,8 +863553,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "5155:12": {
@@ -865873,8 +865873,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "5162:14": {
@@ -866096,8 +866096,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5163:12": {
@@ -867793,8 +867793,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "5173:0": {
@@ -868859,8 +868859,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5177:12": {
@@ -869170,8 +869170,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "5179:1": {
@@ -870531,8 +870531,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5186:6": {
@@ -872272,8 +872272,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5194:16": {
@@ -872927,8 +872927,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَّرْتَنِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "تَنِي"
   },
   "5197:14": {
@@ -873034,8 +873034,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَخِّرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "5198:2": {
@@ -873288,8 +873288,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5199:12": {
@@ -873569,8 +873569,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5201:3": {
@@ -873713,8 +873713,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5202:5": {
@@ -873983,8 +873983,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "5204:0": {
@@ -877022,8 +877022,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "5218:24": {
@@ -879487,8 +879487,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5228:7": {
@@ -884661,8 +884661,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5255:5": {
@@ -884862,8 +884862,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5256:8": {
@@ -886011,8 +886011,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5264:6": {
@@ -886557,8 +886557,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "5269:0": {
@@ -888783,8 +888783,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "5303:4": {
@@ -891472,8 +891472,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5336:2": {
@@ -894450,8 +894450,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5388:3": {
@@ -896535,8 +896535,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "5420:0": {
@@ -896741,8 +896741,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَخِّرْكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "كُمْ"
   },
   "5422:5": {
@@ -896846,8 +896846,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَخَّرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "5422:15": {
@@ -897902,8 +897902,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5435:4": {
@@ -898023,8 +898023,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5437:4": {
@@ -898752,8 +898752,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5444:7": {
@@ -900276,8 +900276,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5456:8": {
@@ -900534,8 +900534,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5458:8": {
@@ -903463,8 +903463,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "5488:0": {
@@ -903501,8 +903501,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5488:3": {
@@ -904475,8 +904475,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ونَ"
   },
   "5494:36": {
@@ -904510,8 +904510,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5494:39": {
@@ -904570,8 +904570,8 @@
     "bound_prefix": "",
     "unprefixed": "آخَرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ونَ"
   },
   "5494:44": {
@@ -907165,8 +907165,8 @@
     "bound_prefix": "يَتَ",
     "unprefixed": "أَخَّرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "5532:0": {
@@ -907968,8 +907968,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةَ"
   },
   "5548:0": {
@@ -908897,8 +908897,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَّرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "5564:0": {
@@ -909281,8 +909281,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةَ"
   },
   "5572:0": {
@@ -913068,8 +913068,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "ا"
   },
   "5622:0": {
@@ -913721,8 +913721,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "5639:0": {
@@ -914068,8 +914068,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5646:3": {
@@ -915651,8 +915651,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5677:3": {
@@ -916952,8 +916952,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5708:3": {
@@ -918544,8 +918544,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةِ"
   },
   "5736:4": {
@@ -918801,8 +918801,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5741:1": {
@@ -920740,8 +920740,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5783:3": {
@@ -922914,8 +922914,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَّرَتْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "تْ"
   },
   "5834:0": {
@@ -925899,8 +925899,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5886:2": {
@@ -926978,8 +926978,8 @@
     "bound_prefix": "",
     "unprefixed": "أَلِيمٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "ألم",
+    "extraction_method": "7",
     "suffix": "none"
   },
   "5908:0": {
@@ -927583,8 +927583,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5917:5": {
@@ -929041,8 +929041,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5942:1": {
@@ -930084,8 +930084,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةُ"
   },
   "5964:1": {
@@ -931046,8 +931046,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5986:2": {
@@ -932530,8 +932530,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "6013:4": {
@@ -934355,8 +934355,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "6048:1": {
@@ -935412,8 +935412,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةَ"
   },
   "6070:3": {
@@ -935943,8 +935943,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِرَةُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخر",
+    "extraction_method": "1",
     "suffix": "ةُ"
   },
   "6082:1": {
@@ -939798,8 +939798,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "6138:7": {
@@ -939835,8 +939835,8 @@
     "bound_prefix": "",
     "unprefixed": "أَرْضُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أرض",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "6139:2": {
