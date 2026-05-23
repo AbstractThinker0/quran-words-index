@@ -337,6 +337,33 @@ const getSixthRoot = (word: string) => {
   return splitArabicLetters(removeDiacritics(word)).slice(0, 3).join("");
 };
 
+const getSeventhRoot = (word: string) => {
+  const letters = splitArabicLetters(removeDiacritics(word));
+
+  if (letters[2] === "ي") {
+    letters.splice(2, 1);
+  }
+
+  return letters.slice(0, 3).join("");
+};
+
+const getEighthRoot = (word: string) => {
+  const splitted = splitArabicLetters(word);
+
+  if (
+    splitted.length > 1 &&
+    (splitted[1].includes("ي") ||
+      splitted[1].includes("ا") ||
+      splitted[1].includes("و"))
+  ) {
+    return normalizeStem(
+      removeDiacritics(["ا", splitted[0], splitted[2]].join(""))
+    );
+  }
+
+  return "";
+};
+
 export {
   normalizeStem,
   getFirstRoot,
@@ -345,4 +372,6 @@ export {
   getFourthRoot,
   getFifthRoot,
   getSixthRoot,
+  getSeventhRoot,
+  getEighthRoot,
 };

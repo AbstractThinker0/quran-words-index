@@ -2,10 +2,12 @@ import { splitArabicLetters } from "quran-tools";
 import { wordsIndex } from "../src/index";
 import { commonArabicDiacritics } from "../src/consts";
 import {
+  getEighthRoot,
   getFifthRoot,
   getFirstRoot,
   getFourthRoot,
   getSecondRoot,
+  getSeventhRoot,
   getSixthRoot,
   getThirdRoot,
 } from "../src/rootExtract";
@@ -68,6 +70,14 @@ describe("patterns tests", () => {
           getSixthRoot(currWord.unprefixed),
           errorMsg
         );
+      } else if (currWord.extraction_method === "7") {
+        expectWithInfo(
+          currWord.extracted_root,
+          getSeventhRoot(currWord.unprefixed),
+          errorMsg
+        );
+      } else if (currWord.extraction_method === "8") {
+        expectWithInfo(currWord.extracted_root, getEighthRoot(stem), errorMsg);
       } else if (currWord.bound_prefix === "اسْتَ") {
         if (
           splittedWord.length > 1 &&
