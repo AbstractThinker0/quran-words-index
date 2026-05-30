@@ -2807,8 +2807,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَانِهِمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "2",
     "suffix": "هِمْ"
   },
   "25:12": {
@@ -5041,8 +5041,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "33:10": {
@@ -8166,8 +8166,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْمُرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "50:1": {
@@ -12923,8 +12923,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "كُمْ"
   },
   "73:7": {
@@ -13352,8 +13352,8 @@
     "bound_prefix": "تُ",
     "unprefixed": "ؤْمَرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "75:0": {
@@ -19549,8 +19549,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "كُمْ"
   },
   "99:22": {
@@ -23649,8 +23649,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "115:27": {
@@ -25429,8 +25429,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "123:6": {
@@ -37104,8 +37104,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "كُمْ"
   },
   "175:2": {
@@ -48137,8 +48137,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "216:13": {
@@ -52433,8 +52433,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرَكُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "كُمُ"
   },
   "228:20": {
@@ -68471,8 +68471,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "كُمْ"
   },
   "274:4": {
@@ -70580,8 +70580,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُ"
   },
   "281:35": {
@@ -79238,8 +79238,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "313:12": {
@@ -84816,8 +84816,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "339:18": {
@@ -91655,8 +91655,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرَكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "كُمْ"
   },
   "372:2": {
@@ -91722,8 +91722,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "كُمْ"
   },
   "372:8": {
@@ -96542,8 +96542,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "396:7": {
@@ -97475,8 +97475,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْمُرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "402:6": {
@@ -98475,8 +98475,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "406:5": {
@@ -101267,8 +101267,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "420:4": {
@@ -104604,8 +104604,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "439:13": {
@@ -105425,8 +105425,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "444:13": {
@@ -106361,8 +106361,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "446:26": {
@@ -106416,8 +106416,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "446:31": {
@@ -106593,8 +106593,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "446:46": {
@@ -108140,8 +108140,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "451:21": {
@@ -128534,8 +128534,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "529:3": {
@@ -131227,8 +131227,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "539:27": {
@@ -133131,8 +133131,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "كُمْ"
   },
   "550:3": {
@@ -133499,8 +133499,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "551:10": {
@@ -133969,8 +133969,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "وا"
   },
   "552:21": {
@@ -139128,8 +139128,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "575:3": {
@@ -139284,8 +139284,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "575:16": {
@@ -147903,8 +147903,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "606:9": {
@@ -148848,8 +148848,8 @@
     "bound_prefix": "",
     "unprefixed": "آمُرَنَّهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَّهُمْ"
   },
   "611:3": {
@@ -148874,8 +148874,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَانَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "2",
     "suffix": "none"
   },
   "611:5": {
@@ -148899,8 +148899,8 @@
     "bound_prefix": "",
     "unprefixed": "آمُرَنَّهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَّهُمْ"
   },
   "611:7": {
@@ -178969,8 +178969,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "720:19": {
@@ -189764,8 +189764,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "763:38": {
@@ -195905,8 +195905,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرْتَنِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تَنِي"
   },
   "785:6": {
@@ -198246,8 +198246,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "796:10": {
@@ -199292,8 +199292,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْتُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تُ"
   },
   "802:15": {
@@ -201229,8 +201229,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَانِهِمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "2",
     "suffix": "هِمْ"
   },
   "813:12": {
@@ -208229,8 +208229,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "846:9": {
@@ -211540,8 +211540,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "859:36": {
@@ -232637,8 +232637,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُمْ"
   },
   "947:12": {
@@ -233259,8 +233259,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْتُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تُ"
   },
   "951:5": {
@@ -235341,8 +235341,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرْتُكَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تُكَ"
   },
   "965:7": {
@@ -238155,8 +238155,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرَنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "981:9": {
@@ -238225,8 +238225,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "981:15": {
@@ -238340,8 +238340,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "982:2": {
@@ -244660,8 +244660,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "1007:24": {
@@ -244708,8 +244708,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1007:28": {
@@ -249296,8 +249296,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1030:5": {
@@ -255173,8 +255173,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْمُرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "1064:0": {
@@ -260890,8 +260890,8 @@
     "bound_prefix": "",
     "unprefixed": "أْمُرْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1098:14": {
@@ -262190,8 +262190,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1103:14": {
@@ -264177,8 +264177,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُمْ"
   },
   "1110:13": {
@@ -269763,8 +269763,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَانٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "2",
     "suffix": "none"
   },
   "1132:19": {
@@ -272816,8 +272816,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَانٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "2",
     "suffix": "none"
   },
   "1148:17": {
@@ -273349,8 +273349,8 @@
     "bound_prefix": "",
     "unprefixed": "أْمُرْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1152:3": {
@@ -282400,8 +282400,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "1201:19": {
@@ -282741,8 +282741,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1202:13": {
@@ -282975,8 +282975,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "1203:13": {
@@ -289801,8 +289801,8 @@
     "bound_prefix": "",
     "unprefixed": "أَذَانٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "2",
     "suffix": "none"
   },
   "1237:1": {
@@ -294623,8 +294623,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "1258:28": {
@@ -296449,8 +296449,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "وا"
   },
   "1265:12": {
@@ -300882,8 +300882,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1282:13": {
@@ -301224,8 +301224,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "1284:11": {
@@ -304513,8 +304513,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "1301:6": {
@@ -305658,8 +305658,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "1305:6": {
@@ -313734,8 +313734,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1340:3": {
@@ -315427,8 +315427,8 @@
     "bound_prefix": "",
     "unprefixed": "آمِرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "1346:7": {
@@ -320344,8 +320344,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1366:16": {
@@ -325756,8 +325756,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "1387:29": {
@@ -327376,8 +327376,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1394:22": {
@@ -334927,8 +334927,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "كُمْ"
   },
   "1434:22": {
@@ -334988,8 +334988,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "كُمْ"
   },
   "1434:27": {
@@ -335206,8 +335206,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْتُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تُ"
   },
   "1435:12": {
@@ -340967,8 +340967,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْتُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تُ"
   },
   "1467:23": {
@@ -349835,8 +349835,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "1512:4": {
@@ -350610,8 +350610,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1515:13": {
@@ -350885,8 +350885,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1516:12": {
@@ -353668,8 +353668,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "1530:3": {
@@ -353907,8 +353907,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1531:9": {
@@ -355394,8 +355394,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "1538:3": {
@@ -356503,8 +356503,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1545:4": {
@@ -356916,8 +356916,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1548:9": {
@@ -358148,8 +358148,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "1554:3": {
@@ -359050,8 +359050,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْمُرُكَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "كَ"
   },
   "1559:5": {
@@ -360713,8 +360713,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "1566:3": {
@@ -361155,8 +361155,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1569:5": {
@@ -361193,8 +361193,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1569:8": {
@@ -361789,8 +361789,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1573:19": {
@@ -363425,8 +363425,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْتَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تَ"
   },
   "1584:3": {
@@ -365159,8 +365159,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1595:7": {
@@ -367554,8 +367554,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِمْ"
   },
   "1610:13": {
@@ -368009,8 +368009,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "1613:11": {
@@ -368727,8 +368727,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "1616:27": {
@@ -371083,8 +371083,8 @@
     "bound_prefix": "",
     "unprefixed": "آمُرُهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُ"
   },
   "1627:15": {
@@ -372885,8 +372885,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1635:20": {
@@ -373244,8 +373244,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1636:17": {
@@ -378278,8 +378278,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُمْ"
   },
   "1663:5": {
@@ -381340,8 +381340,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "1678:6": {
@@ -385015,8 +385015,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُمْ"
   },
   "1697:12": {
@@ -387170,8 +387170,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1708:20": {
@@ -389132,8 +389132,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1717:10": {
@@ -391977,8 +391977,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1727:4": {
@@ -392715,8 +392715,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1731:10": {
@@ -394082,8 +394082,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1737:17": {
@@ -395708,8 +395708,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْتُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تُ"
   },
   "1742:15": {
@@ -401893,8 +401893,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1771:5": {
@@ -404156,8 +404156,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "1781:22": {
@@ -412911,8 +412911,8 @@
     "bound_prefix": "تُ",
     "unprefixed": "ؤْمَرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "1867:0": {
@@ -412958,8 +412958,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1867:4": {
@@ -414865,8 +414865,8 @@
     "bound_prefix": "تُ",
     "unprefixed": "ؤْمَرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1895:3": {
@@ -415339,8 +415339,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1901:6": {
@@ -415491,8 +415491,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "1902:5": {
@@ -416913,8 +416913,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "1912:9": {
@@ -420157,8 +420157,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1933:9": {
@@ -423283,8 +423283,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤْمَرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "1951:0": {
@@ -428292,8 +428292,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1976:24": {
@@ -428432,8 +428432,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1977:6": {
@@ -430909,8 +430909,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1990:3": {
@@ -440581,8 +440581,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "2044:6": {
@@ -445294,8 +445294,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَانِهِمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "2",
     "suffix": "هِمْ"
   },
   "2074:8": {
@@ -451871,8 +451871,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2113:7": {
@@ -457792,8 +457792,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "2149:15": {
@@ -457843,8 +457843,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَانِهِمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "2",
     "suffix": "هِمْ"
   },
   "2150:3": {
@@ -458792,8 +458792,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "كُمْ"
   },
   "2155:18": {
@@ -460309,8 +460309,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُمْ"
   },
   "2160:17": {
@@ -460447,8 +460447,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِمْ"
   },
   "2160:29": {
@@ -462072,8 +462072,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُ"
   },
   "2167:29": {
@@ -466201,8 +466201,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2189:14": {
@@ -467675,8 +467675,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَانِهِمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "2",
     "suffix": "هِمْ"
   },
   "2196:21": {
@@ -469481,8 +469481,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "2209:0": {
@@ -469804,8 +469804,8 @@
     "bound_prefix": "",
     "unprefixed": "إِمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "2211:0": {
@@ -470004,8 +470004,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ي"
   },
   "2212:9": {
@@ -471646,8 +471646,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ي"
   },
   "2221:28": {
@@ -472578,8 +472578,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "2227:12": {
@@ -478048,8 +478048,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "2270:14": {
@@ -479754,8 +479754,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "2284:11": {
@@ -480261,8 +480261,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2288:6": {
@@ -482277,8 +482277,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2304:2": {
@@ -483524,8 +483524,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2313:4": {
@@ -489470,8 +489470,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ي"
   },
   "2374:0": {
@@ -489701,8 +489701,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ي"
   },
   "2380:0": {
@@ -493019,8 +493019,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُمْ"
   },
   "2409:2": {
@@ -497378,8 +497378,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ي"
   },
   "2438:0": {
@@ -497618,8 +497618,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ي"
   },
   "2441:0": {
@@ -503008,8 +503008,8 @@
     "bound_prefix": "",
     "unprefixed": "أْمُرْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2479:1": {
@@ -506995,8 +506995,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "2509:5": {
@@ -512701,8 +512701,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "2555:4": {
@@ -513932,8 +513932,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "2563:5": {
@@ -515633,8 +515633,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُمْ"
   },
   "2575:2": {
@@ -526664,8 +526664,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "وا"
   },
   "2635:10": {
@@ -527373,8 +527373,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَانٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "2",
     "suffix": "none"
   },
   "2640:11": {
@@ -530685,8 +530685,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "2659:14": {
@@ -531071,8 +531071,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2661:10": {
@@ -536454,8 +536454,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "2699:10": {
@@ -539528,8 +539528,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُمْ"
   },
   "2725:2": {
@@ -549943,8 +549943,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2811:14": {
@@ -558081,8 +558081,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرْتَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تَهُمْ"
   },
   "2843:6": {
@@ -561331,8 +561331,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2852:11": {
@@ -561900,8 +561900,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "2853:20": {
@@ -570918,8 +570918,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْمُرُنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "2914:11": {
@@ -576028,8 +576028,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْمُرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "2967:0": {
@@ -583592,8 +583592,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "3082:3": {
@@ -593526,8 +593526,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ي"
   },
   "3190:7": {
@@ -593569,8 +593569,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "3190:11": {
@@ -593683,8 +593683,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "3191:8": {
@@ -593728,8 +593728,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْمُرِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ينَ"
   },
   "3192:0": {
@@ -602612,8 +602612,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْتُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تُ"
   },
   "3249:2": {
@@ -602742,8 +602742,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْتُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تُ"
   },
   "3249:13": {
@@ -611741,8 +611741,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "3295:9": {
@@ -632785,8 +632785,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "3412:5": {
@@ -636079,8 +636079,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "3433:7": {
@@ -640033,8 +640033,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "3454:12": {
@@ -645436,8 +645436,8 @@
     "bound_prefix": "",
     "unprefixed": "أْمُرْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "3485:5": {
@@ -650076,8 +650076,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "3507:2": {
@@ -653047,8 +653047,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "3526:5": {
@@ -661607,8 +661607,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "3568:10": {
@@ -661683,8 +661683,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِمْ"
   },
   "3568:16": {
@@ -662319,8 +662319,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "3569:46": {
@@ -662562,8 +662562,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "3570:19": {
@@ -672038,8 +672038,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "3617:23": {
@@ -676162,8 +676162,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْمُرُونَنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَنَا"
   },
   "3638:11": {
@@ -698338,8 +698338,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُ"
   },
   "3786:2": {
@@ -704765,8 +704765,8 @@
     "bound_prefix": "تُ",
     "unprefixed": "ؤْمَرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "3889:22": {
@@ -713779,8 +713779,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "4005:5": {
@@ -720879,8 +720879,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْتُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تُ"
   },
   "4068:3": {
@@ -720964,8 +720964,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْتُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تُ"
   },
   "4069:1": {
@@ -730068,8 +730068,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْمُرُونِّي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونِّي"
   },
   "4121:4": {
@@ -734709,8 +734709,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "4147:8": {
@@ -740424,8 +740424,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ي"
   },
   "4176:6": {
@@ -744022,8 +744022,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْتُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تُ"
   },
   "4198:16": {
@@ -744527,8 +744527,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "4200:7": {
@@ -745950,8 +745950,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4210:26": {
@@ -747580,8 +747580,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَانِنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "2",
     "suffix": "نَا"
   },
   "4222:9": {
@@ -748703,8 +748703,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرَهَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هَا"
   },
   "4229:10": {
@@ -754595,8 +754595,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَانِهِمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "2",
     "suffix": "هِمْ"
   },
   "4261:21": {
@@ -759580,8 +759580,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْتَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تَ"
   },
   "4286:5": {
@@ -759715,8 +759715,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرْتُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "تُ"
   },
   "4286:16": {
@@ -764105,8 +764105,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُمْ"
   },
   "4309:6": {
@@ -766751,8 +766751,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "4323:6": {
@@ -776229,8 +776229,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "4403:3": {
@@ -777625,8 +777625,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4417:4": {
@@ -777645,8 +777645,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "4418:1": {
@@ -783081,8 +783081,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "4484:9": {
@@ -783866,8 +783866,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4489:4": {
@@ -784170,8 +784170,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4490:6": {
@@ -792845,8 +792845,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4534:4": {
@@ -799390,8 +799390,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4565:6": {
@@ -800093,8 +800093,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4570:12": {
@@ -810163,8 +810163,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4618:11": {
@@ -810681,8 +810681,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4620:19": {
@@ -813580,8 +813580,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4634:8": {
@@ -817865,8 +817865,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "4679:0": {
@@ -820615,8 +820615,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4718:3": {
@@ -824311,8 +824311,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْمُرُهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُمْ"
   },
   "4766:2": {
@@ -830568,8 +830568,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4848:5": {
@@ -831324,8 +831324,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4857:7": {
@@ -833967,8 +833967,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرُّ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4892:0": {
@@ -834217,8 +834217,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "نَا"
   },
   "4895:2": {
@@ -846474,8 +846474,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "5088:16": {
@@ -848852,8 +848852,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْمُرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "5098:3": {
@@ -860037,8 +860037,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِمْ"
   },
   "5140:8": {
@@ -873947,8 +873947,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِمْ"
   },
   "5203:10": {
@@ -876729,8 +876729,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "5218:0": {
@@ -877282,8 +877282,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "5219:15": {
@@ -877673,8 +877673,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "5220:27": {
@@ -877709,8 +877709,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "5221:2": {
@@ -878622,8 +878622,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "5224:6": {
@@ -878749,8 +878749,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هَا"
   },
   "5225:3": {
@@ -878781,8 +878781,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرِهَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هَا"
   },
   "5225:6": {
@@ -879525,8 +879525,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "5228:10": {
@@ -881057,8 +881057,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُمْ"
   },
   "5234:20": {
@@ -881095,8 +881095,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤْمَرُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ونَ"
   },
   "5235:0": {
@@ -897126,8 +897126,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَانِهِمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "2",
     "suffix": "هِمْ"
   },
   "5425:9": {
@@ -917690,8 +917690,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "ا"
   },
   "5717:0": {
@@ -920609,8 +920609,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرَهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "هُ"
   },
   "5781:0": {
@@ -923676,8 +923676,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "5847:7": {
@@ -937780,8 +937780,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمَرَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "6117:2": {
@@ -938479,8 +938479,8 @@
     "bound_prefix": "",
     "unprefixed": "أَمْرٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "6129:0": {
@@ -939003,8 +939003,8 @@
     "bound_prefix": "",
     "unprefixed": "أُمِرُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أمر",
+    "extraction_method": "9",
     "suffix": "وا"
   },
   "6134:2": {
