@@ -8777,8 +8777,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤْخَذُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "54:14": {
@@ -9638,8 +9638,8 @@
     "bound_prefix": "اتِّ",
     "unprefixed": "خَاذِكُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "8",
     "suffix": "كُمُ"
   },
   "60:10": {
@@ -9990,8 +9990,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتْكُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تْكُمُ"
   },
   "61:12": {
@@ -12254,8 +12254,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "69:2": {
@@ -12317,8 +12317,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "69:7": {
@@ -12981,8 +12981,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "73:12": {
@@ -15919,8 +15919,8 @@
     "bound_prefix": "تَّ",
     "unprefixed": "خَذْتُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تُمْ"
   },
   "86:9": {
@@ -16384,8 +16384,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "89:2": {
@@ -16727,8 +16727,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "90:2": {
@@ -19303,8 +19303,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "99:2": {
@@ -19366,8 +19366,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "99:7": {
@@ -20342,8 +20342,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "103:10": {
@@ -21748,8 +21748,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "108:50": {
@@ -47432,8 +47432,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتْهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تْهُ"
   },
   "212:6": {
@@ -49171,8 +49171,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "219:42": {
@@ -52121,8 +52121,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "227:34": {
@@ -52908,8 +52908,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَاخِذُكُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "2",
     "suffix": "كُمُ"
   },
   "231:2": {
@@ -52981,8 +52981,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَاخِذُكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "2",
     "suffix": "كُمْ"
   },
   "231:8": {
@@ -53897,8 +53897,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْخُذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "235:12": {
@@ -54922,8 +54922,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "237:22": {
@@ -61564,8 +61564,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "255:56": {
@@ -61829,8 +61829,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "257:2": {
@@ -63281,8 +63281,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْخُذُهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُ"
   },
   "261:9": {
@@ -63487,8 +63487,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "261:26": {
@@ -65890,8 +65890,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "266:18": {
@@ -68322,8 +68322,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِذِيهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "يهِ"
   },
   "273:21": {
@@ -71265,8 +71265,8 @@
     "bound_prefix": "",
     "unprefixed": "أْذَنُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "وا"
   },
   "285:4": {
@@ -74550,8 +74550,8 @@
     "bound_prefix": "تُ",
     "unprefixed": "ؤَاخِذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "2",
     "suffix": "نَا"
   },
   "292:15": {
@@ -76923,8 +76923,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُمُ"
   },
   "303:9": {
@@ -85213,8 +85213,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "341:22": {
@@ -85307,8 +85307,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "341:29": {
@@ -91675,8 +91675,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "372:4": {
@@ -91806,8 +91806,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "373:2": {
@@ -92054,8 +92054,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْتُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تُمْ"
   },
   "373:22": {
@@ -99285,8 +99285,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "410:6": {
@@ -104016,8 +104016,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "437:7": {
@@ -105355,8 +105355,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "444:7": {
@@ -109627,8 +109627,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "458:6": {
@@ -114426,8 +114426,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "479:2": {
@@ -123566,8 +123566,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْخُذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "512:11": {
@@ -123598,8 +123598,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْخُذُونَهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "ونَهُ"
   },
   "512:14": {
@@ -123661,8 +123661,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْخُذُونَهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "ونَهُ"
   },
   "513:2": {
@@ -123734,8 +123734,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَ"
   },
   "513:8": {
@@ -125412,8 +125412,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "517:24": {
@@ -125518,8 +125518,8 @@
     "bound_prefix": "مُتَّ",
     "unprefixed": "خِذَاتِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "اتِ"
   },
   "517:33": {
@@ -134704,8 +134704,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "556:7": {
@@ -135929,8 +135929,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "563:5": {
@@ -140707,8 +140707,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "581:9": {
@@ -140816,8 +140816,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذُوهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وهُمْ"
   },
   "581:19": {
@@ -140882,8 +140882,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "581:24": {
@@ -141614,8 +141614,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذُوهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وهُمْ"
   },
   "583:23": {
@@ -144939,8 +144939,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "594:11": {
@@ -145108,8 +145108,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "594:25": {
@@ -145473,8 +145473,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "594:55": {
@@ -148766,8 +148766,8 @@
     "bound_prefix": "أَتَّ",
     "unprefixed": "خِذَنَّ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَّ"
   },
   "610:4": {
@@ -154931,8 +154931,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "636:6": {
@@ -156691,8 +156691,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتْهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تْهُمُ"
   },
   "645:20": {
@@ -157119,8 +157119,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "646:16": {
@@ -158371,8 +158371,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخْذِهِمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "6",
     "suffix": "هِمُ"
   },
   "653:1": {
@@ -164990,8 +164990,8 @@
     "bound_prefix": "مُتَّ",
     "unprefixed": "خِذِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "ي"
   },
   "673:31": {
@@ -166958,8 +166958,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "680:2": {
@@ -167928,8 +167928,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "682:6": {
@@ -168624,8 +168624,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "684:14": {
@@ -175005,8 +175005,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذُوهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وهُ"
   },
   "709:37": {
@@ -176546,8 +176546,8 @@
     "bound_prefix": "",
     "unprefixed": "أُذُنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "713:11": {
@@ -176559,8 +176559,8 @@
     "bound_prefix": "",
     "unprefixed": "أُذُنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "713:12": {
@@ -178559,8 +178559,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "719:6": {
@@ -180056,8 +180056,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "725:6": {
@@ -183457,8 +183457,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "738:2": {
@@ -187591,8 +187591,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَاخِذُكُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "2",
     "suffix": "كُمُ"
   },
   "757:2": {
@@ -187664,8 +187664,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَاخِذُكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "2",
     "suffix": "كُمْ"
   },
   "757:8": {
@@ -193911,8 +193911,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "ي"
   },
   "778:34": {
@@ -193976,8 +193976,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "ي"
   },
   "778:39": {
@@ -194031,8 +194031,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "ي"
   },
   "778:43": {
@@ -194083,8 +194083,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "ي"
   },
   "778:47": {
@@ -199161,8 +199161,8 @@
     "bound_prefix": "أَتَّ",
     "unprefixed": "خِذُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "802:4": {
@@ -204821,8 +204821,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَاهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَاهُمْ"
   },
   "830:7": {
@@ -205231,8 +205231,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَاهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَاهُمْ"
   },
   "832:16": {
@@ -205439,8 +205439,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "834:4": {
@@ -210941,8 +210941,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤْخَذْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "858:30": {
@@ -212055,8 +212055,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "862:6": {
@@ -238737,8 +238737,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "984:4": {
@@ -242384,8 +242384,8 @@
     "bound_prefix": "",
     "unprefixed": "أَذَّنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "997:21": {
@@ -242394,8 +242394,8 @@
     "bound_prefix": "مُ",
     "unprefixed": "ؤَذِّنٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "997:22": {
@@ -245462,8 +245462,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1011:5": {
@@ -248540,8 +248540,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذَكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "كُمْ"
   },
   "1026:33": {
@@ -248694,8 +248694,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "ونَ"
   },
   "1027:11": {
@@ -249439,8 +249439,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتْهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تْهُمُ"
   },
   "1031:1": {
@@ -252220,8 +252220,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتْهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تْهُمُ"
   },
   "1044:1": {
@@ -252727,8 +252727,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "1047:8": {
@@ -252957,8 +252957,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَاهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَاهُمْ"
   },
   "1048:14": {
@@ -253196,8 +253196,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَاهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَاهُمْ"
   },
   "1049:15": {
@@ -256206,8 +256206,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1076:7": {
@@ -257435,8 +257435,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "1083:2": {
@@ -260667,8 +260667,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1097:10": {
@@ -260866,8 +260866,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذْهَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هَا"
   },
   "1098:12": {
@@ -260913,8 +260913,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "1098:16": {
@@ -262236,8 +262236,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1103:18": {
@@ -263047,8 +263047,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1107:6": {
@@ -263263,8 +263263,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتْهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تْهُمُ"
   },
   "1108:8": {
@@ -266705,8 +266705,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "1118:11": {
@@ -266947,8 +266947,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أَذَّنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1120:2": {
@@ -267412,8 +267412,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "ونَ"
   },
   "1122:7": {
@@ -267553,8 +267553,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذُوهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وهُ"
   },
   "1122:18": {
@@ -267578,8 +267578,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤْخَذْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1122:20": {
@@ -268074,8 +268074,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "1124:11": {
@@ -268192,8 +268192,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1125:2": {
@@ -273322,8 +273322,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1152:1": {
@@ -284605,8 +284605,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُمُ"
   },
   "1211:10": {
@@ -287389,8 +287389,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1225:22": {
@@ -287758,8 +287758,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْتُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تُمْ"
   },
   "1227:8": {
@@ -288118,8 +288118,8 @@
     "bound_prefix": "",
     "unprefixed": "أُخِذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1229:19": {
@@ -290560,8 +290560,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذُوهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وهُمْ"
   },
   "1239:9": {
@@ -294144,8 +294144,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "1257:6": {
@@ -299891,8 +299891,8 @@
     "bound_prefix": "",
     "unprefixed": "أَذِنْتَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "تَ"
   },
   "1277:5": {
@@ -300967,8 +300967,8 @@
     "bound_prefix": "ا",
     "unprefixed": "ئْذَنْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1283:4": {
@@ -301214,8 +301214,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "1284:10": {
@@ -303358,8 +303358,8 @@
     "bound_prefix": "",
     "unprefixed": "أُذُنٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1295:7": {
@@ -303378,8 +303378,8 @@
     "bound_prefix": "",
     "unprefixed": "أُذُنُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1295:9": {
@@ -309890,8 +309890,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤْذَنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1324:5": {
@@ -313120,8 +313120,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1337:1": {
@@ -313425,8 +313425,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1338:10": {
@@ -320426,8 +320426,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "1366:23": {
@@ -325644,8 +325644,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تِ"
   },
   "1387:19": {
@@ -332330,8 +332330,8 @@
     "bound_prefix": "",
     "unprefixed": "أَذِنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1422:15": {
@@ -340139,8 +340139,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1463:7": {
@@ -353318,8 +353318,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِذٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1528:12": {
@@ -355210,8 +355210,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذَكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "كُمْ"
   },
   "1536:16": {
@@ -355582,8 +355582,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1539:1": {
@@ -360806,8 +360806,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تِ"
   },
   "1566:11": {
@@ -361873,8 +361873,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخْذُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1574:2": {
@@ -361903,8 +361903,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1574:5": {
@@ -361957,8 +361957,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخْذَهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "6",
     "suffix": "هُ"
   },
   "1574:10": {
@@ -362306,8 +362306,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "1577:7": {
@@ -368554,8 +368554,8 @@
     "bound_prefix": "نَتَّ",
     "unprefixed": "خِذَهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُ"
   },
   "1616:13": {
@@ -378884,8 +378884,8 @@
     "bound_prefix": "",
     "unprefixed": "أَذَّنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1665:10": {
@@ -378894,8 +378894,8 @@
     "bound_prefix": "مُ",
     "unprefixed": "ؤَذِّنٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1665:11": {
@@ -379678,8 +379678,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1671:16": {
@@ -380268,8 +380268,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1673:10": {
@@ -380388,8 +380388,8 @@
     "bound_prefix": "نَ",
     "unprefixed": "أْخُذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1674:5": {
@@ -380628,8 +380628,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "1675:13": {
@@ -380813,8 +380813,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْذَنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1675:28": {
@@ -394605,8 +394605,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْتُهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تُهُمْ"
   },
   "1738:10": {
@@ -396290,8 +396290,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1744:17": {
@@ -397384,8 +397384,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1750:15": {
@@ -398612,8 +398612,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أَذَّنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1756:2": {
@@ -399989,8 +399989,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1760:24": {
@@ -402531,8 +402531,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1772:13": {
@@ -402813,8 +402813,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1774:5": {
@@ -413383,8 +413383,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتْهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تْهُمُ"
   },
   "1874:1": {
@@ -413983,8 +413983,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتْهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تْهُمُ"
   },
   "1884:1": {
@@ -422663,8 +422663,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُمْ"
   },
   "1946:2": {
@@ -422749,8 +422749,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُمْ"
   },
   "1947:2": {
@@ -423330,8 +423330,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "1951:4": {
@@ -424659,8 +424659,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَاخِذُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "2",
     "suffix": "none"
   },
   "1961:2": {
@@ -425980,8 +425980,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "ونَ"
   },
   "1967:5": {
@@ -429876,8 +429876,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤْذَنُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "1984:9": {
@@ -431446,8 +431446,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "ونَ"
   },
   "1992:10": {
@@ -431933,8 +431933,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "1994:2": {
@@ -435350,8 +435350,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُمُ"
   },
   "2013:6": {
@@ -438321,8 +438321,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "2030:9": {
@@ -460459,8 +460459,8 @@
     "bound_prefix": "نَتَّ",
     "unprefixed": "خِذَنَّ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَّ"
   },
   "2160:30": {
@@ -466224,8 +466224,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُونَهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "ونَهُ"
   },
   "2189:16": {
@@ -466493,8 +466493,8 @@
     "bound_prefix": "مُتَّ",
     "unprefixed": "خِذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2190:11": {
@@ -467855,8 +467855,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَاخِذُهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "2",
     "suffix": "هُمْ"
   },
   "2197:6": {
@@ -469928,8 +469928,8 @@
     "bound_prefix": "تُ",
     "unprefixed": "ؤَاخِذْنِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "2",
     "suffix": "نِي"
   },
   "2212:3": {
@@ -471050,8 +471050,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2218:14": {
@@ -472248,8 +472248,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2225:23": {
@@ -477004,8 +477004,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2261:3": {
@@ -489081,8 +489081,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذْهَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هَا"
   },
   "2368:2": {
@@ -490125,8 +490125,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذْهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُ"
   },
   "2386:11": {
@@ -494096,8 +494096,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2418:6": {
@@ -497684,8 +497684,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْخُذْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2441:6": {
@@ -499699,8 +499699,8 @@
     "bound_prefix": "",
     "unprefixed": "أَذِنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2456:7": {
@@ -505599,8 +505599,8 @@
     "bound_prefix": "نَتَّ",
     "unprefixed": "خِذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2499:4": {
@@ -517584,8 +517584,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَنْتُكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "تُكُمْ"
   },
   "2591:4": {
@@ -523554,8 +523554,8 @@
     "bound_prefix": "",
     "unprefixed": "أَذِّنْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2621:1": {
@@ -526015,8 +526015,8 @@
     "bound_prefix": "",
     "unprefixed": "أُذِنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2633:1": {
@@ -527027,8 +527027,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْتُهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تُهُمْ"
   },
   "2638:8": {
@@ -527796,8 +527796,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْتُهَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تُهَا"
   },
   "2642:9": {
@@ -530779,8 +530779,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "2659:22": {
@@ -538240,8 +538240,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتْهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تْهُمُ"
   },
   "2713:1": {
@@ -540610,8 +540610,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "2736:3": {
@@ -541863,8 +541863,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَاهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَاهُمْ"
   },
   "2748:2": {
@@ -546633,8 +546633,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْخُذْكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "كُمْ"
   },
   "2792:10": {
@@ -551463,8 +551463,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤْذَنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2818:9": {
@@ -554477,8 +554477,8 @@
     "bound_prefix": "",
     "unprefixed": "أَذِنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2826:3": {
@@ -561538,8 +561538,8 @@
     "bound_prefix": "",
     "unprefixed": "أْذَنْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2852:29": {
@@ -564979,8 +564979,8 @@
     "bound_prefix": "نَتَّ",
     "unprefixed": "خِذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2872:8": {
@@ -566538,8 +566538,8 @@
     "bound_prefix": "أَتَّ",
     "unprefixed": "خِذْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "2882:5": {
@@ -577045,8 +577045,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "2980:6": {
@@ -582302,8 +582302,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُونَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "ونَ"
   },
   "3060:1": {
@@ -584033,8 +584033,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذَكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "كُمْ"
   },
   "3087:4": {
@@ -584118,8 +584118,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُمُ"
   },
   "3089:1": {
@@ -586371,8 +586371,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُمْ"
   },
   "3120:2": {
@@ -604419,8 +604419,8 @@
     "bound_prefix": "نَتَّ",
     "unprefixed": "خِذَهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُ"
   },
   "3260:14": {
@@ -611082,8 +611082,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَاهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَاهُ"
   },
   "3291:1": {
@@ -622688,8 +622688,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُمُ"
   },
   "3353:13": {
@@ -626851,8 +626851,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتْهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تْهُمُ"
   },
   "3376:2": {
@@ -627309,8 +627309,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "3379:2": {
@@ -627417,8 +627417,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتْهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تْهُ"
   },
   "3379:11": {
@@ -643420,8 +643420,8 @@
     "bound_prefix": "",
     "unprefixed": "أُذُنَيْهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "يْهِ"
   },
   "3475:12": {
@@ -655416,8 +655416,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "3539:2": {
@@ -655565,8 +655565,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "3539:14": {
@@ -663468,8 +663468,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "3578:4": {
@@ -665551,8 +665551,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤْذَنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "3585:11": {
@@ -667698,8 +667698,8 @@
     "bound_prefix": "",
     "unprefixed": "أُخِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "3593:4": {
@@ -671970,8 +671970,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "3617:17": {
@@ -674343,8 +674343,8 @@
     "bound_prefix": "",
     "unprefixed": "أَذِنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "3628:7": {
@@ -679630,8 +679630,8 @@
     "bound_prefix": "",
     "unprefixed": "أُخِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "3656:7": {
@@ -685122,8 +685122,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْتُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تُ"
   },
   "3685:2": {
@@ -686312,8 +686312,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "3691:16": {
@@ -689279,8 +689279,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤَاخِذُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "2",
     "suffix": "none"
   },
   "3704:2": {
@@ -691737,8 +691737,8 @@
     "bound_prefix": "أَتَّ",
     "unprefixed": "خِذُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "3727:1": {
@@ -694853,8 +694853,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْخُذُهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُمْ"
   },
   "3753:6": {
@@ -714399,8 +714399,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "4013:1": {
@@ -716027,8 +716027,8 @@
     "bound_prefix": "",
     "unprefixed": "تَّخَذْنَاهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَاهُمْ"
   },
   "4032:1": {
@@ -732903,8 +732903,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذُوهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وهُ"
   },
   "4137:12": {
@@ -732982,8 +732982,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْتُهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تُهُمْ"
   },
   "4137:18": {
@@ -735834,8 +735834,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُمُ"
   },
   "4153:21": {
@@ -736047,8 +736047,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُمُ"
   },
   "4154:8": {
@@ -745906,8 +745906,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4210:22": {
@@ -749830,8 +749830,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتْهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تْهُمْ"
   },
   "4234:8": {
@@ -755341,8 +755341,8 @@
     "bound_prefix": "",
     "unprefixed": "آذَنَّاكَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "اكَ"
   },
   "4264:24": {
@@ -761034,8 +761034,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْذَنْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4292:10": {
@@ -766626,8 +766626,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِهِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "هِ"
   },
   "4322:17": {
@@ -772884,8 +772884,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَاهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَاهُمْ"
   },
   "4372:10": {
@@ -780747,8 +780747,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذُوهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وهُ"
   },
   "4460:1": {
@@ -804715,8 +804715,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْخُذُوهَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وهَا"
   },
   "4597:7": {
@@ -805924,8 +805924,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْخُذُونَهَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "ونَهَا"
   },
   "4601:3": {
@@ -806023,8 +806023,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "أْخُذُونَهَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "ونَهَا"
   },
   "4602:5": {
@@ -818416,8 +818416,8 @@
     "bound_prefix": "",
     "unprefixed": "آخِذِينَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "ينَ"
   },
   "4690:1": {
@@ -820223,8 +820223,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَاهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَاهُ"
   },
   "4714:1": {
@@ -820637,8 +820637,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَتْهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "تْهُمُ"
   },
   "4718:5": {
@@ -827581,8 +827581,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "أْذَنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "4809:14": {
@@ -833643,8 +833643,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَاهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَاهُمْ"
   },
   "4887:4": {
@@ -833653,8 +833653,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخْذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4887:5": {
@@ -836940,8 +836940,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤْخَذُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "4941:4": {
@@ -844834,8 +844834,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "5082:11": {
@@ -846562,8 +846562,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤْخَذُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "none"
   },
   "5089:3": {
@@ -853418,8 +853418,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "5113:12": {
@@ -857350,8 +857350,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "5130:10": {
@@ -858021,8 +858021,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذُوهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وهُ"
   },
   "5132:27": {
@@ -861784,8 +861784,8 @@
     "bound_prefix": "تَتَّ",
     "unprefixed": "خِذُوا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وا"
   },
   "5150:10": {
@@ -875070,8 +875070,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "5209:6": {
@@ -891197,8 +891197,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُمْ"
   },
   "5332:4": {
@@ -891207,8 +891207,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخْذَةً",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "6",
     "suffix": "ةً"
   },
   "5332:5": {
@@ -891362,8 +891362,8 @@
     "bound_prefix": "",
     "unprefixed": "أُذُنٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "5334:5": {
@@ -892470,8 +892470,8 @@
     "bound_prefix": "",
     "unprefixed": "خُذُوهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "وهُ"
   },
   "5352:1": {
@@ -893322,8 +893322,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَا"
   },
   "5367:1": {
@@ -903734,8 +903734,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذْنَاهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "نَاهُ"
   },
   "5490:4": {
@@ -903744,8 +903744,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخْذًا",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "6",
     "suffix": "ا"
   },
   "5490:5": {
@@ -914636,8 +914636,8 @@
     "bound_prefix": "يُ",
     "unprefixed": "ؤْذَنُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "5657:2": {
@@ -917164,8 +917164,8 @@
     "bound_prefix": "",
     "unprefixed": "أَذِنَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "5709:10": {
@@ -918510,8 +918510,8 @@
     "bound_prefix": "",
     "unprefixed": "أَخَذَهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أخذ",
+    "extraction_method": "1",
     "suffix": "هُ"
   },
   "5736:1": {
@@ -925851,8 +925851,8 @@
     "bound_prefix": "",
     "unprefixed": "أَذِنَتْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "تْ"
   },
   "5885:1": {
@@ -925968,8 +925968,8 @@
     "bound_prefix": "",
     "unprefixed": "أَذِنَتْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "تْ"
   },
   "5888:1": {
@@ -938436,8 +938436,8 @@
     "bound_prefix": "",
     "unprefixed": "إِذْنِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "أذن",
+    "extraction_method": "9",
     "suffix": "none"
   },
   "6128:5": {
