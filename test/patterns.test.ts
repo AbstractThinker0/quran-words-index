@@ -2,6 +2,7 @@ import { splitArabicLetters } from "quran-tools";
 import { wordsIndex } from "../src/index";
 import { commonArabicDiacritics } from "../src/consts";
 import {
+  getEleventhRoot,
   getEighthRoot,
   getFifthRoot,
   getFirstRoot,
@@ -90,6 +91,12 @@ describe("patterns tests", () => {
         expectWithInfo(
           currWord.extracted_root,
           getTenthRoot(currWord.unprefixed),
+          errorMsg
+        );
+      } else if (currWord.extraction_method === "11") {
+        expectWithInfo(
+          currWord.extracted_root,
+          getEleventhRoot(stem),
           errorMsg
         );
       } else if (currWord.bound_prefix === "اسْتَ") {

@@ -430,6 +430,20 @@ const getTenthRoot = (word: string) => {
   return replaceMiddleWawWithYa(getFirstRoot(word));
 };
 
+const getEleventhRoot = (word: string) => {
+  const letters = splitArabicLetters(word);
+  const lastIndex = letters.length - 1;
+
+  if (
+    lastIndex >= 0 &&
+    letters[lastIndex]?.includes(commonArabicDiacritics.kasra)
+  ) {
+    letters.splice(lastIndex, 0, "ي");
+  }
+
+  return normalizeRootOutput(normalizeStem(removeDiacritics(letters.join(""))));
+};
+
 export {
   normalizeStem,
   getFirstRoot,
@@ -442,4 +456,5 @@ export {
   getEighthRoot,
   getNinthRoot,
   getTenthRoot,
+  getEleventhRoot,
 };
