@@ -10,6 +10,7 @@ import {
   getSecondRoot,
   getSeventhRoot,
   getSixthRoot,
+  getTenthRoot,
   getThirdRoot,
 } from "../src/rootExtract";
 
@@ -83,6 +84,12 @@ describe("patterns tests", () => {
         expectWithInfo(
           currWord.extracted_root,
           getNinthRoot(currWord.unprefixed),
+          errorMsg
+        );
+      } else if (currWord.extraction_method === "10") {
+        expectWithInfo(
+          currWord.extracted_root,
+          getTenthRoot(currWord.unprefixed),
           errorMsg
         );
       } else if (currWord.bound_prefix === "اسْتَ") {

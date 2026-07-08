@@ -88,6 +88,18 @@ const normalizeRootOutput = (root: string) => {
   return letters.join("");
 };
 
+const replaceMiddleWawWithYa = (root: string) => {
+  if (!root) return root;
+
+  const letters = splitArabicLetters(root);
+
+  if (letters.length > 1 && letters[1] === "و") {
+    letters[1] = "ي";
+  }
+
+  return letters.join("");
+};
+
 const getFirstRoot = (word: string) => {
   const splitted = splitArabicLetters(extractSuffix(word));
 
@@ -411,6 +423,10 @@ const getNinthRoot = (word: string) => {
   return normalizeRootOutput(splitted.join(""));
 };
 
+const getTenthRoot = (word: string) => {
+  return replaceMiddleWawWithYa(getFirstRoot(word));
+};
+
 export {
   normalizeStem,
   getFirstRoot,
@@ -422,4 +438,5 @@ export {
   getSeventhRoot,
   getEighthRoot,
   getNinthRoot,
+  getTenthRoot,
 };
