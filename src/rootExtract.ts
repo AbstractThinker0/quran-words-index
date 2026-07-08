@@ -81,7 +81,10 @@ const normalizeRootOutput = (root: string) => {
   const letters = splitArabicLetters(root);
   const lastIndex = letters.length - 1;
 
-  if (lastIndex >= 0 && letters[lastIndex] === "ئ") {
+  if (
+    (lastIndex >= 0 && letters[lastIndex] === "ئ") ||
+    letters[lastIndex] === "أ"
+  ) {
     letters[lastIndex] = "ء";
   }
 
