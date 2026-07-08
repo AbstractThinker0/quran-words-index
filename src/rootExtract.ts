@@ -1,7 +1,7 @@
 import {
-  splitArabicLetters,
-  removeDiacritics,
   normalizeAlif,
+  removeDiacritics,
+  splitArabicLetters,
 } from "quran-tools";
 import { commonArabicDiacritics } from "./consts";
 
@@ -75,6 +75,19 @@ const normalizeStem = (root: string) => {
   return root;
 };
 
+const normalizeRootOutput = (root: string) => {
+  if (!root) return root;
+
+  const letters = splitArabicLetters(root);
+  const lastIndex = letters.length - 1;
+
+  if (lastIndex >= 0 && letters[lastIndex] === "ئ") {
+    letters[lastIndex] = "ء";
+  }
+
+  return letters.join("");
+};
+
 const getFirstRoot = (word: string) => {
   const splitted = splitArabicLetters(extractSuffix(word));
 
@@ -104,8 +117,8 @@ const getFirstRoot = (word: string) => {
     splitted[0].includes("س") &&
     splitted[1].includes("ق")
   ) {
-    return normalizeStem(
-      removeDiacritics(["و", splitted[0], splitted[1]].join(""))
+    return normalizeRootOutput(
+      normalizeStem(removeDiacritics(["و", splitted[0], splitted[1]].join("")))
     );
   }
 
@@ -114,8 +127,8 @@ const getFirstRoot = (word: string) => {
     splitted[0].includes("ت") &&
     splitted[1].includes("خ")
   ) {
-    return normalizeStem(
-      removeDiacritics(["أ", splitted[1], splitted[2]].join(""))
+    return normalizeRootOutput(
+      normalizeStem(removeDiacritics(["أ", splitted[1], splitted[2]].join("")))
     );
   }
 
@@ -124,14 +137,14 @@ const getFirstRoot = (word: string) => {
     splitted[0].includes("خ") &&
     splitted[1].includes("ذ")
   ) {
-    return normalizeStem(
-      removeDiacritics(["أ", splitted[0], splitted[1]].join(""))
+    return normalizeRootOutput(
+      normalizeStem(removeDiacritics(["أ", splitted[0], splitted[1]].join("")))
     );
   }
 
   if (splitted.length > 1 && splitted[1].includes("ا")) {
-    return normalizeStem(
-      removeDiacritics([splitted[0], "و", splitted[2]].join(""))
+    return normalizeRootOutput(
+      normalizeStem(removeDiacritics([splitted[0], "و", splitted[2]].join("")))
     );
   }
 
@@ -139,8 +152,8 @@ const getFirstRoot = (word: string) => {
     splitted.length > 1 &&
     splitted[1].includes(commonArabicDiacritics.sukun)
   ) {
-    return normalizeStem(
-      removeDiacritics([splitted[0], "و", splitted[1]].join(""))
+    return normalizeRootOutput(
+      normalizeStem(removeDiacritics([splitted[0], "و", splitted[1]].join("")))
     );
   }
 
@@ -148,8 +161,8 @@ const getFirstRoot = (word: string) => {
     splitted.length > 2 &&
     (splitted[2].includes("تْ") || splitted[2] === "ا")
   ) {
-    return normalizeStem(
-      removeDiacritics([splitted[0], splitted[1], "ى"].join(""))
+    return normalizeRootOutput(
+      normalizeStem(removeDiacritics([splitted[0], splitted[1], "ى"].join("")))
     );
   }
 
@@ -158,8 +171,8 @@ const getFirstRoot = (word: string) => {
     !splitted[0].includes("ب") &&
     splitted[1] === "ي"
   ) {
-    return normalizeStem(
-      removeDiacritics([splitted[0], "و", splitted[2]].join(""))
+    return normalizeRootOutput(
+      normalizeStem(removeDiacritics([splitted[0], "و", splitted[2]].join("")))
     );
   }
 
@@ -167,26 +180,26 @@ const getFirstRoot = (word: string) => {
     splitted.length > 1 &&
     (splitted[1] === "يُ" || splitted[1] === "شُ" || splitted[1] === "نُ")
   ) {
-    return normalizeStem(
-      removeDiacritics([splitted[0], splitted[1], "ى"].join(""))
+    return normalizeRootOutput(
+      normalizeStem(removeDiacritics([splitted[0], splitted[1], "ى"].join("")))
     );
   }
 
   if (splitted.length > 1 && splitted[1] === "فٍ") {
-    return normalizeStem(
-      removeDiacritics([splitted[0], splitted[1], "ى"].join(""))
+    return normalizeRootOutput(
+      normalizeStem(removeDiacritics([splitted[0], splitted[1], "ى"].join("")))
     );
   }
 
   if (splitted.length === 2 && splitted[1] === "تُ") {
-    return normalizeStem(
-      removeDiacritics([splitted[0], splitted[1], "ى"].join(""))
+    return normalizeRootOutput(
+      normalizeStem(removeDiacritics([splitted[0], splitted[1], "ى"].join("")))
     );
   }
 
   if (splitted.length === 2 && splitted[1] === "فُ") {
-    return normalizeStem(
-      removeDiacritics([splitted[0], splitted[1], "ى"].join(""))
+    return normalizeRootOutput(
+      normalizeStem(removeDiacritics([splitted[0], splitted[1], "ى"].join("")))
     );
   }
 
@@ -207,7 +220,9 @@ const getFirstRoot = (word: string) => {
 
   const firstThreeLetters = splitted.slice(0, 3).join("");
 
-  return normalizeStem(removeDiacritics(firstThreeLetters));
+  return normalizeRootOutput(
+    normalizeStem(removeDiacritics(firstThreeLetters))
+  );
 };
 
 const getSecondRoot = (word: string) => {
@@ -219,8 +234,10 @@ const getSecondRoot = (word: string) => {
       splitted[2].includes("ا") ||
       splitted[2].includes("و"))
   ) {
-    return normalizeStem(
-      removeDiacritics([splitted[0], splitted[1], splitted[3]].join(""))
+    return normalizeRootOutput(
+      normalizeStem(
+        removeDiacritics([splitted[0], splitted[1], splitted[3]].join(""))
+      )
     );
   }
 
@@ -230,8 +247,10 @@ const getSecondRoot = (word: string) => {
       splitted[1].includes("ا") ||
       splitted[1].includes("و"))
   ) {
-    return normalizeStem(
-      removeDiacritics([splitted[0], splitted[2], splitted[3]].join(""))
+    return normalizeRootOutput(
+      normalizeStem(
+        removeDiacritics([splitted[0], splitted[2], splitted[3]].join(""))
+      )
     );
   }
 
@@ -241,12 +260,14 @@ const getSecondRoot = (word: string) => {
       splitted[1].includes("ت"))
   ) {
     if (splitted.length < 3) {
-      return normalizeStem(
-        removeDiacritics([splitted[0], splitted[2]].join(""))
+      return normalizeRootOutput(
+        normalizeStem(removeDiacritics([splitted[0], splitted[2]].join("")))
       );
     } else {
-      return normalizeStem(
-        removeDiacritics([splitted[0], splitted[2], splitted[3]].join(""))
+      return normalizeRootOutput(
+        normalizeStem(
+          removeDiacritics([splitted[0], splitted[2], splitted[3]].join(""))
+        )
       );
     }
   }
@@ -261,8 +282,10 @@ const getThirdRoot = (word: string) => {
     splitted.length > 1 &&
     splitted[1].includes(commonArabicDiacritics.shadda)
   ) {
-    return normalizeStem(
-      removeDiacritics([splitted[0], splitted[1], splitted[1]].join(""))
+    return normalizeRootOutput(
+      normalizeStem(
+        removeDiacritics([splitted[0], splitted[1], splitted[1]].join(""))
+      )
     );
   }
 
@@ -273,7 +296,9 @@ const getFourthRoot = (word: string) => {
   const splitted = splitArabicLetters(word);
 
   if (splitted.length > 4) {
-    return removeDiacritics([splitted[0], splitted[1], splitted[4]].join(""));
+    return normalizeRootOutput(
+      removeDiacritics([splitted[0], splitted[1], splitted[4]].join(""))
+    );
   }
 
   return "";
@@ -314,7 +339,7 @@ const getFifthRoot = (word: string) => {
 
   const splitted = splitArabicLetters(word);
 
-  const rootLetters: string[] = [];
+  const rootLetters: Array<string> = [];
   let lastStableIndex = 0;
 
   for (const letter of splitted) {
@@ -330,15 +355,17 @@ const getFifthRoot = (word: string) => {
 
   if (rootLetters.length < 3) {
     if (lastStableIndex > 0 && lastStableIndex < splitted.length) {
-      rootLetters.push(removeDiacritics(splitted[lastStableIndex]!));
+      rootLetters.push(removeDiacritics(splitted[lastStableIndex]));
     }
   }
 
-  return normalizeStem(rootLetters.join(""));
+  return normalizeRootOutput(normalizeStem(rootLetters.join("")));
 };
 
 const getSixthRoot = (word: string) => {
-  return splitArabicLetters(removeDiacritics(word)).slice(0, 3).join("");
+  return normalizeRootOutput(
+    splitArabicLetters(removeDiacritics(word)).slice(0, 3).join("")
+  );
 };
 
 const getSeventhRoot = (word: string) => {
@@ -348,7 +375,7 @@ const getSeventhRoot = (word: string) => {
     letters.splice(2, 1);
   }
 
-  return letters.slice(0, 3).join("");
+  return normalizeRootOutput(letters.slice(0, 3).join(""));
 };
 
 const getEighthRoot = (word: string) => {
@@ -360,8 +387,8 @@ const getEighthRoot = (word: string) => {
       splitted[1].includes("ا") ||
       splitted[1].includes("و"))
   ) {
-    return normalizeStem(
-      removeDiacritics(["ا", splitted[0], splitted[2]].join(""))
+    return normalizeRootOutput(
+      normalizeStem(removeDiacritics(["ا", splitted[0], splitted[2]].join("")))
     );
   }
 
@@ -381,7 +408,7 @@ const getNinthRoot = (word: string) => {
     splitted[0] = "أ";
   }
 
-  return splitted.join("");
+  return normalizeRootOutput(splitted.join(""));
 };
 
 export {
