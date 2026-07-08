@@ -204336,8 +204336,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "شَإِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "11",
     "suffix": "none"
   },
   "827:9": {
@@ -761907,8 +761907,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "شَإِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "11",
     "suffix": "none"
   },
   "4295:8": {
