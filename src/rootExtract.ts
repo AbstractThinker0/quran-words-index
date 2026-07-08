@@ -83,7 +83,8 @@ const normalizeRootOutput = (root: string) => {
 
   if (
     (lastIndex >= 0 && letters[lastIndex] === "ئ") ||
-    letters[lastIndex] === "أ"
+    letters[lastIndex] === "أ" ||
+    letters[lastIndex] === "إ"
   ) {
     letters[lastIndex] = "ء";
   }
