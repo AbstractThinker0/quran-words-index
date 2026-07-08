@@ -3178,8 +3178,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "26:24": {
@@ -5533,8 +5533,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "35:18": {
@@ -22876,8 +22876,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "112:18": {
@@ -23704,8 +23704,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "115:32": {
@@ -24413,8 +24413,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "119:6": {
@@ -24482,8 +24482,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "119:12": {
@@ -32933,8 +32933,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "154:18": {
@@ -34149,8 +34149,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "161:2": {
@@ -39736,8 +39736,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "184:21": {
@@ -55191,8 +55191,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "237:44": {
@@ -63601,8 +63601,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "261:35": {
@@ -65669,8 +65669,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "265:66": {
@@ -67236,8 +67236,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "270:32": {
@@ -73304,8 +73304,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "288:128": {
@@ -74024,8 +74024,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "290:27": {
@@ -75541,8 +75541,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "297:6": {
@@ -80326,8 +80326,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "318:24": {
@@ -80801,8 +80801,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "320:16": {
@@ -81171,8 +81171,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "321:21": {
@@ -94135,8 +94135,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "384:11": {
@@ -101277,8 +101277,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "420:5": {
@@ -106384,8 +106384,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "446:28": {
@@ -106603,8 +106603,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "446:47": {
@@ -109541,8 +109541,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "457:19": {
@@ -115010,8 +115010,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "481:8": {
@@ -118383,8 +118383,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "496:9": {
@@ -127128,8 +127128,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "524:26": {
@@ -127348,8 +127348,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "525:18": {
@@ -133551,8 +133551,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "551:15": {
@@ -139942,8 +139942,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "577:21": {
@@ -140108,8 +140108,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "578:14": {
@@ -147612,8 +147612,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "605:18": {
@@ -150267,8 +150267,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "618:11": {
@@ -162467,8 +162467,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "668:49": {
@@ -169163,8 +169163,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "685:41": {
@@ -169882,8 +169882,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "687:28": {
@@ -174553,8 +174553,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "708:18": {
@@ -182889,8 +182889,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "736:7": {
@@ -189097,8 +189097,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "762:7": {
@@ -190483,8 +190483,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "765:26": {
@@ -191021,8 +191021,8 @@
     "bound_prefix": "أَ",
     "unprefixed": "شْيَاءَ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "2",
     "suffix": "none"
   },
   "769:8": {
@@ -196154,8 +196154,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "785:28": {
@@ -196707,8 +196707,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "788:10": {
@@ -199820,8 +199820,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "805:16": {
@@ -199949,8 +199949,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "807:3": {
@@ -204179,8 +204179,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "826:18": {
@@ -205160,8 +205160,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "832:10": {
@@ -206871,8 +206871,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "840:15": {
@@ -206942,8 +206942,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "840:21": {
@@ -210513,8 +210513,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "857:8": {
@@ -213267,8 +213267,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "868:22": {
@@ -215196,8 +215196,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "879:14": {
@@ -216001,8 +216001,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "881:15": {
@@ -217647,8 +217647,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "887:11": {
@@ -218398,8 +218398,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "889:14": {
@@ -218435,8 +218435,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "889:17": {
@@ -218556,8 +218556,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "890:10": {
@@ -218619,8 +218619,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "890:15": {
@@ -220210,8 +220210,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "899:11": {
@@ -229307,8 +229307,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "936:14": {
@@ -231326,8 +231326,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "942:11": {
@@ -232617,8 +232617,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "947:10": {
@@ -233398,8 +233398,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "952:9": {
@@ -250636,8 +250636,8 @@
     "bound_prefix": "أَ",
     "unprefixed": "شْيَاءَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "2",
     "suffix": "هُمْ"
   },
   "1038:26": {
@@ -251898,8 +251898,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1042:29": {
@@ -260807,8 +260807,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1098:7": {
@@ -260854,8 +260854,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1098:11": {
@@ -263916,8 +263916,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1109:21": {
@@ -270595,8 +270595,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1138:11": {
@@ -281812,8 +281812,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1200:5": {
@@ -282149,8 +282149,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1200:32": {
@@ -286089,8 +286089,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1219:25": {
@@ -288665,8 +288665,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1231:27": {
@@ -289500,8 +289500,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1234:21": {
@@ -298849,8 +298849,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1273:15": {
@@ -316242,8 +316242,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1349:17": {
@@ -342667,8 +342667,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1476:7": {
@@ -344427,8 +344427,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1484:26": {
@@ -353623,8 +353623,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1529:20": {
@@ -356445,8 +356445,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1544:12": {
@@ -358805,8 +358805,8 @@
     "bound_prefix": "أَ",
     "unprefixed": "شْيَاءَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "2",
     "suffix": "هُمْ"
   },
   "1557:10": {
@@ -361756,8 +361756,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1573:16": {
@@ -372369,8 +372369,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1633:14": {
@@ -378101,8 +378101,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1662:19": {
@@ -378382,8 +378382,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1663:14": {
@@ -386634,8 +386634,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1706:19": {
@@ -388742,8 +388742,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1714:13": {
@@ -389940,8 +389940,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1720:11": {
@@ -390774,8 +390774,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1722:42": {
@@ -401145,8 +401145,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1767:18": {
@@ -401668,8 +401668,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1770:20": {
@@ -405307,8 +405307,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1787:13": {
@@ -409081,8 +409081,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1820:10": {
@@ -409223,8 +409223,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1822:3": {
@@ -420594,8 +420594,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1935:12": {
@@ -420709,8 +420709,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1935:21": {
@@ -421748,8 +421748,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1940:3": {
@@ -422916,8 +422916,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1948:8": {
@@ -427768,8 +427768,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1975:9": {
@@ -428122,8 +428122,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1976:10": {
@@ -428575,8 +428575,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1977:18": {
@@ -430817,8 +430817,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "1989:20": {
@@ -440016,8 +440016,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2040:21": {
@@ -444929,8 +444929,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2072:10": {
@@ -460914,8 +460914,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2162:3": {
@@ -465191,8 +465191,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2184:22": {
@@ -466965,8 +466965,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2193:13": {
@@ -469564,8 +469564,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2209:7": {
@@ -470368,8 +470368,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2215:5": {
@@ -471930,8 +471930,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2223:9": {
@@ -491633,8 +491633,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2397:6": {
@@ -498574,8 +498574,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2445:11": {
@@ -507539,8 +507539,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2512:15": {
@@ -514020,8 +514020,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2563:13": {
@@ -518164,8 +518164,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2595:13": {
@@ -519701,8 +519701,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2600:12": {
@@ -521757,8 +521757,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2611:21": {
@@ -543119,8 +543119,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2760:6": {
@@ -554437,8 +554437,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2825:47": {
@@ -556961,8 +556961,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2835:30": {
@@ -562225,8 +562225,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2854:21": {
@@ -562602,8 +562602,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2856:17": {
@@ -575618,8 +575618,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "2961:4": {
@@ -585882,8 +585882,8 @@
     "bound_prefix": "أَ",
     "unprefixed": "شْيَاءَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "2",
     "suffix": "هُمْ"
   },
   "3114:4": {
@@ -591213,8 +591213,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3174:14": {
@@ -592455,8 +592455,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3181:8": {
@@ -602255,8 +602255,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3246:14": {
@@ -602730,8 +602730,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3249:12": {
@@ -614254,8 +614254,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3308:18": {
@@ -614834,8 +614834,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3311:4": {
@@ -620442,8 +620442,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3339:12": {
@@ -622382,8 +622382,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3351:16": {
@@ -623832,8 +623832,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3359:18": {
@@ -627984,8 +627984,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3381:9": {
@@ -631279,8 +631279,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3401:13": {
@@ -639032,8 +639032,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3448:18": {
@@ -641008,8 +641008,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3458:18": {
@@ -650362,8 +650362,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3509:4": {
@@ -659669,8 +659669,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3559:12": {
@@ -662934,8 +662934,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3572:16": {
@@ -665418,8 +665418,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3584:24": {
@@ -666348,8 +666348,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3586:10": {
@@ -666699,8 +666699,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3587:29": {
@@ -673025,8 +673025,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3621:13": {
@@ -673933,8 +673933,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3626:20": {
@@ -677437,8 +677437,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3644:15": {
@@ -679181,8 +679181,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3652:16": {
@@ -680408,8 +680408,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3660:27": {
@@ -684145,8 +684145,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3677:14": {
@@ -689155,8 +689155,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3703:21": {
@@ -690580,8 +690580,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3716:10": {
@@ -690988,8 +690988,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3719:11": {
@@ -698498,8 +698498,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3787:6": {
@@ -709603,8 +709603,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3974:7": {
@@ -709743,8 +709743,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "3975:11": {
@@ -729832,8 +729832,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4119:4": {
@@ -729880,8 +729880,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4119:8": {
@@ -733349,8 +733349,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4139:17": {
@@ -734912,8 +734912,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4148:9": {
@@ -735529,8 +735529,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4152:10": {
@@ -743250,8 +743250,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4194:6": {
@@ -750342,8 +750342,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4238:12": {
@@ -753566,8 +753566,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4256:21": {
@@ -756612,8 +756612,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4270:18": {
@@ -756737,8 +756737,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4271:11": {
@@ -758117,8 +758117,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4280:15": {
@@ -758185,8 +758185,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4281:5": {
@@ -758496,8 +758496,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4282:16": {
@@ -758680,8 +758680,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4283:12": {
@@ -763751,8 +763751,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4307:4": {
@@ -792833,8 +792833,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4534:3": {
@@ -793237,8 +793237,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4535:21": {
@@ -794810,8 +794810,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4542:21": {
@@ -806335,8 +806335,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4603:13": {
@@ -807659,8 +807659,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4608:27": {
@@ -812745,8 +812745,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4627:15": {
@@ -813284,8 +813284,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4631:10": {
@@ -820425,8 +820425,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4716:4": {
@@ -821007,8 +821007,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4723:3": {
@@ -823423,8 +823423,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4755:14": {
@@ -824581,8 +824581,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4769:5": {
@@ -830805,8 +830805,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4851:7": {
@@ -834164,8 +834164,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4894:3": {
@@ -834367,8 +834367,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "4897:2": {
@@ -843705,8 +843705,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5076:10": {
@@ -843816,8 +843816,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5077:8": {
@@ -850313,8 +850313,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5103:8": {
@@ -851981,8 +851981,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5109:14": {
@@ -852544,8 +852544,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5110:46": {
@@ -855232,8 +855232,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5121:13": {
@@ -857681,8 +857681,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5131:24": {
@@ -863165,8 +863165,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5153:45": {
@@ -865023,8 +865023,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٌ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5160:3": {
@@ -873388,8 +873388,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5199:20": {
@@ -875178,8 +875178,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5209:15": {
@@ -877342,8 +877342,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5219:20": {
@@ -879608,8 +879608,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5228:17": {
@@ -879687,8 +879687,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5228:24": {
@@ -881765,8 +881765,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5236:45": {
@@ -882907,8 +882907,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5241:12": {
@@ -884033,8 +884033,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5249:12": {
@@ -885308,8 +885308,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5259:14": {
@@ -902535,8 +902535,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5474:12": {
@@ -916609,8 +916609,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5700:2": {
@@ -920361,8 +920361,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5775:3": {
@@ -927629,8 +927629,8 @@
     "bound_prefix": "",
     "unprefixed": "شَيْءٍ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "شيء",
+    "extraction_method": "6",
     "suffix": "none"
   },
   "5917:9": {
