@@ -1434,8 +1434,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادَهُمُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "هُمُ"
   },
   "16:4": {
@@ -60415,8 +60415,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادَهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "هُ"
   },
   "253:31": {
@@ -111116,8 +111116,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "هُمْ"
   },
   "465:11": {
@@ -247385,8 +247385,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادَكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "كُمْ"
   },
   "1022:19": {
@@ -274860,8 +274860,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادَتْهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "تْهُمْ"
   },
   "1161:13": {
@@ -300575,8 +300575,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادُوكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "وكُمْ"
   },
   "1281:5": {
@@ -318703,8 +318703,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادَتْهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "تْهُ"
   },
   "1358:9": {
@@ -318772,8 +318772,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادَتْهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "تْهُمْ"
   },
   "1358:15": {
@@ -318882,8 +318882,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادَتْهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "تْهُمْ"
   },
   "1359:6": {
@@ -352637,8 +352637,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "زِدْكُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "كُمْ"
   },
   "1524:12": {
@@ -361824,8 +361824,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادُوهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "وهُمْ"
   },
   "1573:22": {
@@ -430508,8 +430508,8 @@
     "bound_prefix": "",
     "unprefixed": "زِدْنَاهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "نَاهُمْ"
   },
   "1988:7": {
@@ -454072,8 +454072,8 @@
     "bound_prefix": "",
     "unprefixed": "زِدْنَاهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "نَاهُمْ"
   },
   "2125:26": {
@@ -458115,8 +458115,8 @@
     "bound_prefix": "",
     "unprefixed": "زِدْنَاهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "نَاهُمْ"
   },
   "2152:10": {
@@ -500511,8 +500511,8 @@
     "bound_prefix": "",
     "unprefixed": "زِدْنِي",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "نِي"
   },
   "2461:16": {
@@ -570930,8 +570930,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "هُمْ"
   },
   "2914:12": {
@@ -658717,8 +658717,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "هُمْ"
   },
   "3554:15": {
@@ -688567,8 +688567,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "هُمْ"
   },
   "3701:17": {
@@ -715852,8 +715852,8 @@
     "bound_prefix": "",
     "unprefixed": "زِدْهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "هُ"
   },
   "4030:7": {
@@ -760721,8 +760721,8 @@
     "bound_prefix": "نَ",
     "unprefixed": "زِدْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "none"
   },
   "4291:6": {
@@ -761739,8 +761739,8 @@
     "bound_prefix": "نَ",
     "unprefixed": "زِدْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "none"
   },
   "4294:22": {
@@ -798599,8 +798599,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادَهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "هُمْ"
   },
   "4561:3": {
@@ -896988,8 +896988,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "زِدْهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "هُمْ"
   },
   "5424:2": {
@@ -898188,8 +898188,8 @@
     "bound_prefix": "يَ",
     "unprefixed": "زِدْهُ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "هُ"
   },
   "5439:9": {
@@ -898491,8 +898491,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "زِدِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "11",
     "suffix": "none"
   },
   "5442:5": {
@@ -899041,8 +899041,8 @@
     "bound_prefix": "تَ",
     "unprefixed": "زِدِ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "11",
     "suffix": "none"
   },
   "5446:12": {
@@ -899811,8 +899811,8 @@
     "bound_prefix": "",
     "unprefixed": "زَادُوهُمْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "وهُمْ"
   },
   "5452:10": {
@@ -902758,8 +902758,8 @@
     "bound_prefix": "",
     "unprefixed": "زِدْ",
     "type": "normal",
-    "extracted_root": "",
-    "extraction_method": "0",
+    "extracted_root": "زيد",
+    "extraction_method": "10",
     "suffix": "none"
   },
   "5478:2": {
