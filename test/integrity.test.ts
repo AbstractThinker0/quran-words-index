@@ -1,8 +1,29 @@
 import { wordsIndex } from "../src/index";
+import { removeDiacritics, splitArabicLetters } from "quran-tools";
 
 describe("integrity tests", () => {
   test("Check words num", () => {
     expect(Object.keys(wordsIndex).length).toBe(78248);
+  });
+
+  test("Stable letters occur in their word", () => {
+    for (const [wordKey, word] of Object.entries(wordsIndex)) {
+      if (word.stable_letters === undefined) {
+        continue;
+      }
+
+      const wordLetters = new Set(
+        splitArabicLetters(removeDiacritics(word.word)),
+      );
+      const invalidLetters = splitArabicLetters(
+        removeDiacritics(word.stable_letters),
+      ).filter((letter) => !wordLetters.has(letter));
+
+      expect(
+        invalidLetters,
+        `${wordKey}: "${word.stable_letters}" is not contained in "${word.word}"`,
+      ).toEqual([]);
+    }
   });
 
   test("Prefixes integrity", () => {
@@ -18,7 +39,7 @@ describe("integrity tests", () => {
           "word: ",
           currWord.word,
           " - loose prefixes: ",
-          loosePrefixes
+          loosePrefixes,
         );
       }
 
