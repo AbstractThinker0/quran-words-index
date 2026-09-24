@@ -13,15 +13,13 @@
   "license": "MIT",
   "author": "AbstractThinker0",
   "scripts": {
-    "test": "jest",
+    "test": "vitest",
     "generate:minimal": "ts-node scripts/generate-minimal-index.ts"
   },
   "devDependencies": {
-    "@types/jest": "^30.0.0",
-    "jest": "^30.0.5",
-    "ts-jest": "^29.4.1",
     "ts-node": "^10.9.2",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.2",
+    "vitest": "^5.0.1"
   },
   "dependencies": {
     "quran-tools": "^0.0.11"
