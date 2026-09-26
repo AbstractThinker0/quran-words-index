@@ -12,8 +12,12 @@ import {
   getSeventhRoot,
   getSixthRoot,
   getTenthRoot,
+  getTwelfthRoot,
   getThirdRoot,
+  getThirteenthRoot,
+  getFourteenthRoot,
 } from "../src/rootExtract";
+import { describe, test } from "vitest";
 
 // Helper function to assert with extra context info on failure
 function normalizeTerminalRootLetter(value: string | undefined) {
@@ -27,7 +31,7 @@ function normalizeTerminalRootLetter(value: string | undefined) {
 function expectWithInfo(
   actual: string | undefined,
   expected: string | undefined,
-  info: string
+  info: string,
 ) {
   const normalizedActual = normalizeTerminalRootLetter(actual);
   const normalizedExpected = normalizeTerminalRootLetter(expected);
@@ -71,13 +75,13 @@ describe("patterns tests", () => {
         expectWithInfo(
           currWord.extracted_root,
           getSixthRoot(currWord.unprefixed),
-          errorMsg
+          errorMsg,
         );
       } else if (currWord.extraction_method === "7") {
         expectWithInfo(
           currWord.extracted_root,
           getSeventhRoot(currWord.unprefixed),
-          errorMsg
+          errorMsg,
         );
       } else if (currWord.extraction_method === "8") {
         expectWithInfo(currWord.extracted_root, getEighthRoot(stem), errorMsg);
@@ -85,19 +89,33 @@ describe("patterns tests", () => {
         expectWithInfo(
           currWord.extracted_root,
           getNinthRoot(currWord.unprefixed),
-          errorMsg
+          errorMsg,
         );
       } else if (currWord.extraction_method === "10") {
         expectWithInfo(
           currWord.extracted_root,
           getTenthRoot(currWord.unprefixed),
-          errorMsg
+          errorMsg,
         );
       } else if (currWord.extraction_method === "11") {
         expectWithInfo(
           currWord.extracted_root,
           getEleventhRoot(stem),
-          errorMsg
+          errorMsg,
+        );
+      } else if (currWord.extraction_method === "12") {
+        expectWithInfo(currWord.extracted_root, getTwelfthRoot(stem), errorMsg);
+      } else if (currWord.extraction_method === "13") {
+        expectWithInfo(
+          currWord.extracted_root,
+          getThirteenthRoot(stem),
+          errorMsg,
+        );
+      } else if (currWord.extraction_method === "14") {
+        expectWithInfo(
+          currWord.extracted_root,
+          getFourteenthRoot(stem),
+          errorMsg,
         );
       } else if (currWord.bound_prefix === "اسْتَ") {
         if (
@@ -107,13 +125,13 @@ describe("patterns tests", () => {
           expectWithInfo(
             currWord.extracted_root,
             getThirdRoot(currWord.unprefixed),
-            errorMsg
+            errorMsg,
           );
         } else {
           expectWithInfo(
             currWord.extracted_root,
             getFirstRoot(currWord.unprefixed),
-            errorMsg
+            errorMsg,
           );
         }
       } else if (currWord.bound_prefix === "اسْتِ") {
@@ -121,26 +139,26 @@ describe("patterns tests", () => {
           expectWithInfo(
             currWord.extracted_root,
             getFirstRoot(currWord.unprefixed),
-            errorMsg
+            errorMsg,
           );
         } else {
           expectWithInfo(
             currWord.extracted_root,
             getSecondRoot(currWord.unprefixed),
-            errorMsg
+            errorMsg,
           );
         }
       } else if (currWord.bound_prefix === "اسْتُ") {
         expectWithInfo(
           currWord.extracted_root,
           getFirstRoot(currWord.unprefixed),
-          errorMsg
+          errorMsg,
         );
       } else if (currWord.bound_prefix === "أَسْتَ") {
         expectWithInfo(
           currWord.extracted_root,
           getFirstRoot(currWord.unprefixed),
-          errorMsg
+          errorMsg,
         );
       } else if (currWord.bound_prefix === "انْ") {
         if (
@@ -150,19 +168,19 @@ describe("patterns tests", () => {
           expectWithInfo(
             currWord.extracted_root,
             getThirdRoot(currWord.unprefixed),
-            errorMsg
+            errorMsg,
           );
         } else if (splittedWord.length > 1 && thirdLetter === "ا") {
           expectWithInfo(
             currWord.extracted_root,
             getSecondRoot(currWord.unprefixed),
-            errorMsg
+            errorMsg,
           );
         } else {
           expectWithInfo(
             currWord.extracted_root,
             getFirstRoot(currWord.unprefixed),
-            errorMsg
+            errorMsg,
           );
         }
       } else if (currWord.bound_prefix === "مُسْتَ") {
@@ -173,13 +191,13 @@ describe("patterns tests", () => {
           expectWithInfo(
             currWord.extracted_root,
             getThirdRoot(currWord.unprefixed),
-            errorMsg
+            errorMsg,
           );
         } else {
           expectWithInfo(
             currWord.extracted_root,
             getFirstRoot(currWord.unprefixed),
-            errorMsg
+            errorMsg,
           );
         }
       } else if (currWord.bound_prefix === "يَسْتَ") {
@@ -190,50 +208,50 @@ describe("patterns tests", () => {
           expectWithInfo(
             currWord.extracted_root,
             getThirdRoot(currWord.unprefixed),
-            errorMsg
+            errorMsg,
           );
         } else {
           expectWithInfo(
             currWord.extracted_root,
             getFirstRoot(currWord.unprefixed),
-            errorMsg
+            errorMsg,
           );
         }
       } else if (currWord.bound_prefix === "نَسْتَ") {
         expectWithInfo(
           currWord.extracted_root,
           getFirstRoot(currWord.unprefixed),
-          errorMsg
+          errorMsg,
         );
       } else if (currWord.bound_prefix === "يَنْ") {
         expectWithInfo(
           currWord.extracted_root,
           getFirstRoot(currWord.unprefixed),
-          errorMsg
+          errorMsg,
         );
       } else if (currWord.bound_prefix === "يُسْتَ") {
         expectWithInfo(
           currWord.extracted_root,
           getFirstRoot(currWord.unprefixed),
-          errorMsg
+          errorMsg,
         );
       } else if (currWord.bound_prefix === "يُتَ") {
         expectWithInfo(
           currWord.extracted_root,
           getFirstRoot(currWord.unprefixed),
-          errorMsg
+          errorMsg,
         );
       } else if (currWord.bound_prefix === "يَتَّ") {
         expectWithInfo(
           currWord.extracted_root,
           getFirstRoot(currWord.unprefixed),
-          errorMsg
+          errorMsg,
         );
       } else if (currWord.bound_prefix === "اتَّ") {
         expectWithInfo(
           currWord.extracted_root,
           getFirstRoot(currWord.unprefixed),
-          errorMsg
+          errorMsg,
         );
       }
     }
