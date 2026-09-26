@@ -375,7 +375,21 @@ const getFifthRoot = (word: string) => {
     }
   }
 
-  return normalizeRootOutput(normalizeStem(rootLetters.join("")));
+  let normalizedOutput = normalizeRootOutput(
+    normalizeStem(rootLetters.join("")),
+  );
+
+  const outputLength = normalizedOutput.length;
+
+  if (
+    outputLength === 2 ||
+    (outputLength === 3 && normalizedOutput[outputLength - 1] === "ا")
+  ) {
+    normalizedOutput =
+      normalizedOutput.substring(0, 2) + "ي" + normalizedOutput.substring(3);
+  }
+
+  return normalizedOutput;
 };
 
 const getSixthRoot = (word: string) => {
