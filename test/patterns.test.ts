@@ -53,7 +53,7 @@ describe("patterns tests", () => {
       const secondLetter = splittedWord[1];
       const thirdLetter = splittedWord[2];
       const fourthLetter = splittedWord[3];
-      const errorMsg = `Word: ${currWord.word}, Key: ${wordKey}, Prefix: ${currWord.bound_prefix}, Unprefixed: ${currWord.unprefixed}, Extracted: ${currWord.extracted_root}`;
+      const errorMsg = `Word: ${currWord.word}, Key: ${wordKey}, Prefix: ${currWord.bound_prefix}, Unprefixed: ${currWord.unprefixed}, Extraction method: ${currWord.extraction_method}, Extracted: ${currWord.extracted_root}`;
 
       let stem = currWord.unprefixed;
 
