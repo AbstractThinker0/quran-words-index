@@ -375,21 +375,7 @@ const getFifthRoot = (word: string) => {
     }
   }
 
-  let normalizedOutput = normalizeRootOutput(
-    normalizeStem(rootLetters.join("")),
-  );
-
-  const outputLength = normalizedOutput.length;
-
-  if (
-    outputLength === 2 ||
-    (outputLength === 3 && normalizedOutput[outputLength - 1] === "ا")
-  ) {
-    normalizedOutput =
-      normalizedOutput.substring(0, 2) + "ي" + normalizedOutput.substring(3);
-  }
-
-  return normalizedOutput;
+  return normalizeRootOutput(normalizeStem(rootLetters.join("")));
 };
 
 const getSixthRoot = (word: string) => {
@@ -508,6 +494,21 @@ const getFourteenthRoot = (word: string) => {
   return letters.join("");
 };
 
+const getFifteenthRoot = (word: string) => {
+  let root = getFifthRoot(word);
+
+  const outputLength = root.length;
+
+  if (
+    outputLength === 2 ||
+    (outputLength === 3 && root[outputLength - 1] === "ا")
+  ) {
+    root = root.substring(0, 2) + "ي" + root.substring(3);
+  }
+
+  return root;
+};
+
 export {
   normalizeStem,
   getFirstRoot,
@@ -524,4 +525,5 @@ export {
   getTwelfthRoot,
   getThirteenthRoot,
   getFourteenthRoot,
+  getFifteenthRoot,
 };

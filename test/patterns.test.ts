@@ -16,6 +16,7 @@ import {
   getThirdRoot,
   getThirteenthRoot,
   getFourteenthRoot,
+  getFifteenthRoot,
 } from "../src/rootExtract";
 import { describe, test } from "vitest";
 
@@ -115,6 +116,12 @@ describe("patterns tests", () => {
         expectWithInfo(
           currWord.extracted_root,
           getFourteenthRoot(stem),
+          errorMsg,
+        );
+      } else if (currWord.extraction_method === "15") {
+        expectWithInfo(
+          currWord.extracted_root,
+          getFifteenthRoot(stem),
           errorMsg,
         );
       } else if (currWord.bound_prefix === "اسْتَ") {
