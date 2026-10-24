@@ -241,7 +241,7 @@ const getFirstRoot = (word: string) => {
   );
 };
 
-const getSecondRoot = (word: string) => {
+const getSecondRootInternal = (word: string) => {
   const splitted = splitArabicLetters(word);
 
   if (
@@ -289,6 +289,16 @@ const getSecondRoot = (word: string) => {
   }
 
   return "";
+};
+
+const getSecondRoot = (word: string) => {
+  let secondRoot = getSecondRootInternal(word);
+
+  if (secondRoot.length == 2) {
+    secondRoot = secondRoot.concat("ي");
+  }
+
+  return secondRoot;
 };
 
 const getThirdRoot = (word: string) => {
